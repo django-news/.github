@@ -28,5 +28,5 @@ export JUST_UNSTABLE := "true"
         --readme-path=profile/README.md \
         https://djangotv.com/feeds/
 
-@lint:
-    uv tool run black .
+@lint *ARGS:
+    uv run --with pre-commit-uv pre-commit run {{ ARGS }} --all-files
