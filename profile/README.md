@@ -34,3 +34,8 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 - [Documentation platform engineer](https://jobs.django-news.com/336/documentation-platform-engineer-canonical/)
 - [Senior Full Stack Developer](https://jobs.django-news.com/332/senior-full-stack-developer-baserow/)
 <!--END_SECTION:jobs-->
+
+## Recent Django Videos
+
+<!--START_SECTION:videos-->
+<!--END_SECTION:videos-->
