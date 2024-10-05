@@ -17,4 +17,5 @@ jobs:
         with:
           empty-commits: false
           feed-url: https://django-news.com/issues.rss
+          path: .github/README.md
           readme-section: news
