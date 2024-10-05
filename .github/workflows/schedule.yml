@@ -13,9 +13,13 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: JasonEtco/rss-to-readme@v1
-        with:
-          empty-commits: false
-          feed-url: https://django-news.com/issues.rss
-          path: .github/README.md
-          readme-section: news
+      - uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v3
+
+      - name: Install Just(file)
+        uses: extractions/setup-just@v1
+
+      - name: Fetch our Feeds
+        run: just fetch-rss
