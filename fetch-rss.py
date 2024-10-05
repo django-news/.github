@@ -8,7 +8,6 @@
 # ///
 
 import feedparser
-import os
 import re
 import typer
 

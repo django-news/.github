@@ -1,6 +1,6 @@
 # Django News
 
-Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriplett) and [@wsvincent](https://github.com/wsvincent) as a weekly newsletter to keep the latest news in the Django and Python community. 
+Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriplett) and [@wsvincent](https://github.com/wsvincent) as a weekly newsletter to keep the latest news in the Django and Python community.
 
 ## Projects
 
