@@ -3,9 +3,6 @@ export JUST_UNSTABLE := "true"
 @_default:
     just --list
 
-@fmt:
-    just --fmt
-
 @bootstrap:
     python -m pip install --upgrade pip uv
 
@@ -27,6 +24,9 @@ export JUST_UNSTABLE := "true"
         --section=videos \
         --readme-path=profile/README.md \
         https://djangotv.com/feeds/
+
+@fmt:
+    just --fmt
 
 @lint *ARGS:
     uv run --with pre-commit-uv pre-commit run {{ ARGS }} --all-files
