@@ -4,11 +4,11 @@ Django News was started in 2019 by @jefftriplett and @wsvincent as a weekly news
 
 ## Projects
 
-- [Django News Newsletter](https://django-news.com)
-- [Django News Jobs](https://jobs.django-news.com)
-- [Django TV](https://djangotv.com)
-- [Django Book](https://djangobook.com)
-- [Awesome Django](https://awesomedjango.org)
+- :newspaper: [Django News Newsletter](https://django-news.com)
+- :briefcase: [Django News Jobs](https://jobs.django-news.com)
+- :tv: [Django TV](https://djangotv.com)
+- :books: [Django Book](https://djangobook.com)
+- :dark_sunglasses: [Awesome Django](https://awesomedjango.org)
 
 ## Follow us
 
