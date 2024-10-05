@@ -19,7 +19,7 @@ jobs:
         uses: astral-sh/setup-uv@v3
 
       - name: Install Just(file)
-        uses: extractions/setup-just@v1
+        uses: extractions/setup-just@v2
 
       - name: Fetch our Feeds
         run: just fetch-rss
