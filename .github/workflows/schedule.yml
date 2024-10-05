@@ -25,13 +25,18 @@ jobs:
           enable-cache: true
           cache-dependency-glob: |
             *.py
-            justfile
-
-      - name: Install Just(file)
-        uses: extractions/setup-just@v2
 
       - name: Fetch our Feeds
-        run: just fetch-rss
+        run: |
+            uv run fetch-rss.py \
+                --section=news \
+                --readme-path=profile/README.md \
+                https://django-news.com/issues.rss
+
+            uv run fetch-rss.py \
+                --section=jobs \
+                --readme-path=profile/README.md \
+                https://jobs.django-news.com/feed/
 
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
