@@ -14,7 +14,7 @@ Django News was started in 2019 by @jefftriplett and @wsvincent as a weekly news
 
 - [Mastodon](https://mastodon.social/@djangonews)
 - [𝕏](https://x.com/djangonewsbot)
-- [GitHub(https://github.com/django-news)
+- [GitHub](https://github.com/django-news)
 
 
 ## Recent Django News
