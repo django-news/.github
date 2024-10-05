@@ -38,4 +38,9 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django Videos
 
 <!--START_SECTION:videos-->
+- [Django Day 2024](http://djangotv.com/videos/django-day-copenhagen/2024/django-day-copenhagen/)
+- [Sarah Boyce - DjangoCon US 2024 Perspectives](http://djangotv.com/videos/djangocon-us/2024/sarah-boyce-djangocon-us-2024-perspectives/)
+- [Kudzayi Bamhare - DjangoCon US 2024 Perspectives](http://djangotv.com/videos/djangocon-us/2024/kudzayi-bamhare-djangocon-us-2024-perspectives/)
+- [Lacey Henschel - DjangoCon US 2024 Perspectives](http://djangotv.com/videos/djangocon-us/2024/lacey-henschel-djangocon-us-2024-perspectives/)
+- [Why DjangoCon US? | DjangoCon US 2022 Memories](http://djangotv.com/videos/djangocon-us/2022/why-djangocon-us-djangocon-us-2022-memories/)
 <!--END_SECTION:videos-->
