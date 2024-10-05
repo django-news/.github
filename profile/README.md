@@ -16,7 +16,6 @@ Django News was started in 2019 by @jefftriplett and @wsvincent as a weekly news
 - [𝕏](https://x.com/djangonewsbot)
 - [GitHub](https://github.com/django-news)
 
-
 ## Recent Django News
 
 <!--START_SECTION:news-->
@@ -26,8 +25,6 @@ Django News was started in 2019 by @jefftriplett and @wsvincent as a weekly news
 - [Django News - Python 3.13.0RC2 - Sep 13th 2024](https://django-news.com/issues/250)
 - [Django News - Django security releases issued: 5.1.1, 5.0.9, and 4.2.16 - Sep 6th 2024](https://django-news.com/issues/249)
 <!--END_SECTION:news-->
-
-<hr>
 
 ## Recent Django Jobs
 
