@@ -8,7 +8,6 @@ export JUST_UNSTABLE := "true"
 
 @bootstrap:
     python -m pip install --upgrade pip uv
-    uv pip install --requirement requirements.in
 
 @fetch-rss:
     uv run fetch-rss.py \
