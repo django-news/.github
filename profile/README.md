@@ -9,4 +9,4 @@ Django News was started in 2019 by @jefftriplett and @wsvincent as a weekly news
 - [Django Book](https://djangobook.com)
 - [Awesome Django](https://awesomedjango.org)
 - [Mastodon](https://mastodon.social/@djangonews)
-* [𝕏](https://x.com/djangonewsbot)
+- [𝕏](https://x.com/djangonewsbot)
