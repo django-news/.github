@@ -12,6 +12,10 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
     steps:
       - uses: actions/checkout@v4
 
@@ -24,7 +28,5 @@ jobs:
       - name: Fetch our Feeds
         run: just fetch-rss
 
-      - name: What changed?
-        run: |
-          git status
-          git diff
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        commit_message: ":pencil: Updates README"
