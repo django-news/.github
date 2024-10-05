@@ -23,6 +23,7 @@ jobs:
         uses: astral-sh/setup-uv@v3
         with:
           enable-cache: true
+          cache-dependency-glob: *.py
 
       - name: Install Just(file)
         uses: extractions/setup-just@v2
