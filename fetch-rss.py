@@ -10,32 +10,36 @@
 import feedparser
 import re
 import typer
+from pathlib import Path
 
 
-def fetch_rss_feed(url: str):
+def fetch_rss_feed(*, url: str):
     """Fetch and parse the RSS feed."""
     return feedparser.parse(url)
 
 
-def format_entry(entry):
+def format_entry(*, entry):
     """Format a single RSS entry."""
     return f"- [{entry.title}]({entry.link})"
 
 
-def update_readme(feed_entries: str, section: str, readme_path: str):
+def update_readme(
+    *,
+    feed_entries: str,
+    limit: int,
+    readme_path: str,
+    section: str,
+):
     """Update the README.md file with new RSS feed entries."""
-    with open(readme_path, "r") as file:
-        content = file.read()
+    content = Path(readme_path).read_text()
 
     # Define start and end markers
-    # start_marker = "<!-- RSS_FEED_START -->"
-    # end_marker = "<!-- RSS_FEED_END -->"
     start_marker = f"<!--START_SECTION:{section}-->"
     end_marker = f"<!--END_SECTION:{section}-->"
 
     # Create the new content
     new_content = "\n".join(
-        [format_entry(entry) for entry in feed_entries[:5]]
+        [format_entry(entry=entry) for entry in feed_entries[:limit]]
     )  # Last 5 entries
 
     # Replace the content between markers
@@ -44,16 +48,19 @@ def update_readme(feed_entries: str, section: str, readme_path: str):
     updated_content = re.sub(pattern, replacement, content, flags=re.DOTALL)
 
     # Write the updated content back to the file
-    with open(readme_path, "w") as file:
-        file.write(updated_content)
+    content = Path(readme_path).write_text(updated_content)
 
 
-def main(rss_url: str, section: str = "news", readme_path: str = "README.md"):
+def main(
+    rss_url: str, section: str = "news", readme_path: str = "README.md", limit: int = 5
+):
     # Fetch the RSS feed
-    feed = fetch_rss_feed(rss_url)
+    feed = fetch_rss_feed(url=rss_url)
 
     # Update the README
-    update_readme(feed_entries=feed.entries, section=section, readme_path=readme_path)
+    update_readme(
+        feed_entries=feed.entries, limit=limit, readme_path=readme_path, section=section
+    )
 
 
 if __name__ == "__main__":
