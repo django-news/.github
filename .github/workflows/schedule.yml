@@ -23,3 +23,8 @@ jobs:
 
       - name: Fetch our Feeds
         run: just fetch-rss
+
+      - name: What changed?
+        run: |
+          git status
+          git diff
