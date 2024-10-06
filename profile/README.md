@@ -10,12 +10,6 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 - :books: [Django Book](https://djangobook.com)
 - :dark_sunglasses: [Awesome Django](https://awesomedjango.org)
 
-## Follow us
-
-- [Mastodon](https://mastodon.social/@djangonews)
-- [𝕏](https://x.com/djangonewsbot)
-- [GitHub](https://github.com/django-news)
-
 ## Recent Django News
 
 <!--START_SECTION:news-->
@@ -44,3 +38,9 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 - [Lacey Henschel - DjangoCon US 2024 Perspectives](http://djangotv.com/videos/djangocon-us/2024/lacey-henschel-djangocon-us-2024-perspectives/)
 - [Why DjangoCon US? | DjangoCon US 2022 Memories](http://djangotv.com/videos/djangocon-us/2022/why-djangocon-us-djangocon-us-2022-memories/)
 <!--END_SECTION:videos-->
+
+## Follow us
+
+- [Mastodon](https://mastodon.social/@djangonews)
+- [𝕏](https://x.com/djangonewsbot)
+- [GitHub](https://github.com/django-news)
