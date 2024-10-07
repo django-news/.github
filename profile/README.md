@@ -29,6 +29,11 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 - [Documentation platform engineer](https://jobs.django-news.com/336/documentation-platform-engineer-canonical/)
 <!--END_SECTION:jobs-->
 
+## Recent Django Chat Podcast Episodes
+
+<!--START_SECTION:episodes-->
+<!--END_SECTION:episodes-->
+
 ## Recent Django Videos
 
 <!--START_SECTION:videos-->
