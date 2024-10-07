@@ -32,6 +32,11 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django Chat Podcast Episodes
 
 <!--START_SECTION:episodes-->
+- [DjangoCon US 2024 Recap - Tim Schilling](https://djangochat.com)
+- [Django Fellows - Natalia Bidart & Sarah Boyce](https://djangochat.com)
+- [Fall 2024 Podcast Relaunch](https://djangochat.com)
+- [Buttondown - Justin Duke](https://djangochat.com)
+- [Funding Open Source - Jeff Triplett](https://djangochat.com)
 <!--END_SECTION:episodes-->
 
 ## Recent Django Videos
