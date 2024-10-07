@@ -40,6 +40,12 @@ jobs:
               --readme-path=profile/README.md \
               https://jobs.django-news.com/feed/
 
+          # Fetch latest Django Chat Podcast episodes
+          uv run fetch-rss.py \
+              --section=episodes \
+              --readme-path=profile/README.md \
+              https://feeds.simplecast.com/WpQaX_cs
+
           # Fetch latest Django TV entries
           uv run fetch-rss.py \
               --section=videos \
