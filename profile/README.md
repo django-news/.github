@@ -23,10 +23,10 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django Jobs
 
 <!--START_SECTION:jobs-->
+- [Software Engineer, Archiving & Data Services (Remote)](https://jobs.django-news.com/344/software-engineer-archiving-data-services-remote-internet-archive/)
 - [Django Developer -- Data Science & Algo Focus | Remote](https://jobs.django-news.com/342/django-developer-data-science-algo-focus-remote-spotter-ai/)
 - [Senior Python / Django Back-end Developer with Multi-Dimensional Data Analysis Experience](https://jobs.django-news.com/340/senior-python-django-back-end-developer-with-multi-dimensional-data-analysis-experience-scalable-path/)
 - [Full-stack Python Developer](https://jobs.django-news.com/339/full-stack-python-developer-scalable-path/)
-- [Documentation platform engineer](https://jobs.django-news.com/336/documentation-platform-engineer-canonical/)
 <!--END_SECTION:jobs-->
 
 ## Recent Django Chat Podcast Episodes
