@@ -42,11 +42,11 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django Videos
 
 <!--START_SECTION:videos-->
-- [Aman Singh - DjangoCon US 2024 Perspectives](http://djangotv.com/videos/djangocon-us/2024/aman-singh-djangocon-us-2024-perspectives/)
-- [Django Day 2024](http://djangotv.com/videos/django-day-copenhagen/2024/django-day-copenhagen/)
-- [Sarah Boyce - DjangoCon US 2024 Perspectives](http://djangotv.com/videos/djangocon-us/2024/sarah-boyce-djangocon-us-2024-perspectives/)
-- [Kudzayi Bamhare - DjangoCon US 2024 Perspectives](http://djangotv.com/videos/djangocon-us/2024/kudzayi-bamhare-djangocon-us-2024-perspectives/)
-- [Lacey Henschel - DjangoCon US 2024 Perspectives](http://djangotv.com/videos/djangocon-us/2024/lacey-henschel-djangocon-us-2024-perspectives/)
+- [Justus Hämäläinen - Manage.py as the task runner - Django Day Copenhagen 2024](http://djangotv.com/videos/django-day-copenhagen/2024/justus-hamalainen-managepy-as-the-task-runner-django-day-copenhagen-2024/)
+- [Denny Biasiolli - Django migrations, friend or foe? Optimize them for testing](http://djangotv.com/videos/django-day-copenhagen/2024/denny-biasiolli-django-migrations-friend-or-foe-optimize-them-for-testing/)
+- [Andrea Guerra - Hypermedia driven maps - Django Day Copenhagen 2024](http://djangotv.com/videos/django-day-copenhagen/2024/andrea-guerra-hypermedia-driven-maps-django-day-copenhagen-2024/)
+- [Jonathan Ströbele - A Data Harmonization Engine on top of Django - The Good, the Bad, and the Ugly](http://djangotv.com/videos/django-day-copenhagen/2024/jonathan-strobele-a-data-harmonization-engine-on-top-of-django-the-good-the-bad-and-the-ugly/)
+- [Raffaella Suardini - From junior developer to Django contributor: My open source journey](http://djangotv.com/videos/django-day-copenhagen/2024/raffaella-suardini-from-junior-developer-to-django-contributor-my-open-source-journey/)
 <!--END_SECTION:videos-->
 
 ## Follow us
