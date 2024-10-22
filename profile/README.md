@@ -23,10 +23,10 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django Jobs
 
 <!--START_SECTION:jobs-->
+- [Full Stack Python Developer](https://jobs.django-news.com/351/full-stack-python-developer-teralumen-solutions-pvt-ltd/)
 - [Senior Python Engineer](https://jobs.django-news.com/348/senior-python-engineer-kazang-a-company-part-of-the-lesaka-technologies-group/)
 - [Chief Technology Officer](https://jobs.django-news.com/346/chief-technology-officer-torchbox/)
 - [Software Engineer, Archiving & Data Services (Remote)](https://jobs.django-news.com/344/software-engineer-archiving-data-services-remote-internet-archive/)
-- [Django Developer -- Data Science & Algo Focus | Remote](https://jobs.django-news.com/342/django-developer-data-science-algo-focus-remote-spotter-ai/)
 <!--END_SECTION:jobs-->
 
 ## Recent Django Chat Podcast Episodes
