@@ -13,11 +13,11 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django News
 
 <!--START_SECTION:news-->
+- [Django News - Django Girls Turns 10 - Nov 1st 2024](https://django-news.com/issues/257)
 - [Django News - Last chance to run for the DSF Board - Oct 25th 2024](https://django-news.com/issues/256)
 - [Django News - DSF Weekly Office Hours - Oct 18th 2024](https://django-news.com/issues/255)
 - [Django News - Python 3.13 and Django 5.1.2 bugfix released - Oct 11th 2024](https://django-news.com/issues/254)
 - [Django News - 2025 DSF Board Nominations - Oct 4th 2024](https://django-news.com/issues/253)
-- [Django News - 2025 DSF Board Nominations - Sep 27th 2024](https://django-news.com/issues/252)
 <!--END_SECTION:news-->
 
 ## Recent Django Jobs
