@@ -23,20 +23,20 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django Jobs
 
 <!--START_SECTION:jobs-->
+- [Senior Full-Stack Django and React Developer](https://jobs.django-news.com/358/senior-full-stack-django-and-react-developer-scalable-path/)
 - [Full Stack Python Developer](https://jobs.django-news.com/351/full-stack-python-developer-teralumen-solutions-pvt-ltd/)
 - [Senior Python Engineer](https://jobs.django-news.com/348/senior-python-engineer-kazang-a-company-part-of-the-lesaka-technologies-group/)
 - [Chief Technology Officer](https://jobs.django-news.com/346/chief-technology-officer-torchbox/)
-- [Software Engineer, Archiving & Data Services (Remote)](https://jobs.django-news.com/344/software-engineer-archiving-data-services-remote-internet-archive/)
 <!--END_SECTION:jobs-->
 
 ## Recent Django Chat Podcast Episodes
 
 <!--START_SECTION:episodes-->
+- [Django for the Meat Industry - Bryton Wishart](https://djangochat.com)
 - [Python Core Developer - Mariatta Wijaya](https://djangochat.com)
 - [Thibaud Colas - 2025 DSF Board Nominations](https://djangochat.com)
 - [DjangoCon US 2024 Recap - Tim Schilling](https://djangochat.com)
 - [Django Fellows - Natalia Bidart & Sarah Boyce](https://djangochat.com)
-- [Fall 2024 Podcast Relaunch](https://djangochat.com)
 <!--END_SECTION:episodes-->
 
 ## Recent Django Videos
