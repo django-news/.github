@@ -42,11 +42,11 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django Videos
 
 <!--START_SECTION:videos-->
-- [Josef Bakke - Fighting for a better world as a Django developer - Django Day Copenhagen 2024](http://djangotv.com/videos/django-day-copenhagen/2024/josef-bakke-fighting-for-a-better-world-as-a-django-developer-django-day-copenhagen-2024/)
+- ["Demystifying the Django ORM" with Simon Charette | Djangonaut Space](http://djangotv.com/videos/djangonaut-space/2024/demystifying-the-django-orm-with-simon-charette-djangonaut-space/)
 - [Andrea Guerra - Hypermedia driven maps - Django Day Copenhagen 2024](http://djangotv.com/videos/django-day-copenhagen/2024/andrea-guerra-hypermedia-driven-maps-django-day-copenhagen-2024/)
-- [Justus Hämäläinen - Manage.py as the task runner - Django Day Copenhagen 2024](http://djangotv.com/videos/django-day-copenhagen/2024/justus-hamalainen-managepy-as-the-task-runner-django-day-copenhagen-2024/)
+- [Michael Nicholson - From Dinosaurs to Snakes - Decomposing the Enterprise Monolith](http://djangotv.com/videos/django-day-copenhagen/2024/michael-nicholson-from-dinosaurs-to-snakes-decomposing-the-enterprise-monolith/)
 - [Jonathan Ströbele - A Data Harmonization Engine on top of Django - The Good, the Bad, and the Ugly](http://djangotv.com/videos/django-day-copenhagen/2024/jonathan-strobele-a-data-harmonization-engine-on-top-of-django-the-good-the-bad-and-the-ugly/)
-- [Joseph Victor Zammit - Marrying Django and FastAPI 💍 - Django Day Copenhagen 2024](http://djangotv.com/videos/django-day-copenhagen/2024/joseph-victor-zammit-marrying-django-and-fastapi-django-day-copenhagen-2024/)
+- [Denny Biasiolli - Django migrations, friend or foe? Optimize them for testing](http://djangotv.com/videos/django-day-copenhagen/2024/denny-biasiolli-django-migrations-friend-or-foe-optimize-them-for-testing/)
 <!--END_SECTION:videos-->
 
 ## Follow us
