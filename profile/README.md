@@ -13,20 +13,20 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django News
 
 <!--START_SECTION:news-->
+- [Django News - 2025 DSF Board Results - Nov 22nd 2024](https://django-news.com/issues/260)
 - [Django News - DjangoCon Europe 2025 in Dublin, Ireland! 🍀 - Nov 15th 2024](https://django-news.com/issues/259)
 - [Django News - Django bugfix release issued: 5.1.3 - Nov 8th 2024](https://django-news.com/issues/258)
 - [Django News - Django Girls Turns 10 - Nov 1st 2024](https://django-news.com/issues/257)
 - [Django News - Last chance to run for the DSF Board - Oct 25th 2024](https://django-news.com/issues/256)
-- [Django News - DSF Weekly Office Hours - Oct 18th 2024](https://django-news.com/issues/255)
 <!--END_SECTION:news-->
 
 ## Recent Django Jobs
 
 <!--START_SECTION:jobs-->
+- [Remote Senior Django Full-Stack Developer (German speaking)](https://jobs.django-news.com/359/remote-senior-django-full-stack-developer-german-speaking-immometrica/)
 - [Full Stack Python Developer](https://jobs.django-news.com/351/full-stack-python-developer-teralumen-solutions-pvt-ltd/)
 - [Senior Python Engineer](https://jobs.django-news.com/348/senior-python-engineer-kazang-a-company-part-of-the-lesaka-technologies-group/)
 - [Chief Technology Officer](https://jobs.django-news.com/346/chief-technology-officer-torchbox/)
-- [Software Engineer, Archiving & Data Services (Remote)](https://jobs.django-news.com/344/software-engineer-archiving-data-services-remote-internet-archive/)
 <!--END_SECTION:jobs-->
 
 ## Recent Django Chat Podcast Episodes
@@ -42,10 +42,10 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django Videos
 
 <!--START_SECTION:videos-->
+- ["Django: Looking Forward to the Next 20 years" with Emma Delescolle](http://djangotv.com/videos/djangonaut-space/2024/django-looking-forward-to-the-next-20-years-with-emma-delescolle/)
 - ["Demystifying the Django ORM" with Simon Charette | Djangonaut Space](http://djangotv.com/videos/djangonaut-space/2024/demystifying-the-django-orm-with-simon-charette-djangonaut-space/)
 - [Andrea Guerra - Hypermedia driven maps - Django Day Copenhagen 2024](http://djangotv.com/videos/django-day-copenhagen/2024/andrea-guerra-hypermedia-driven-maps-django-day-copenhagen-2024/)
-- [Michael Nicholson - From Dinosaurs to Snakes - Decomposing the Enterprise Monolith](http://djangotv.com/videos/django-day-copenhagen/2024/michael-nicholson-from-dinosaurs-to-snakes-decomposing-the-enterprise-monolith/)
-- [Jonathan Ströbele - A Data Harmonization Engine on top of Django - The Good, the Bad, and the Ugly](http://djangotv.com/videos/django-day-copenhagen/2024/jonathan-strobele-a-data-harmonization-engine-on-top-of-django-the-good-the-bad-and-the-ugly/)
+- [Rosamund Mather - Mapping out Berlin's female history with Django and Leaflet.js](http://djangotv.com/videos/django-day-copenhagen/2024/rosamund-mather-mapping-out-berlins-female-history-with-django-and-leafletjs/)
 - [Denny Biasiolli - Django migrations, friend or foe? Optimize them for testing](http://djangotv.com/videos/django-day-copenhagen/2024/denny-biasiolli-django-migrations-friend-or-foe-optimize-them-for-testing/)
 <!--END_SECTION:videos-->
 
