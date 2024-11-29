@@ -13,20 +13,20 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django News
 
 <!--START_SECTION:news-->
+- [Django News - 2024 Malcolm Tredinnick Memorial Prize awarded to Rachell Calhoun - Nov 29th 2024](https://django-news.com/issues/261)
 - [Django News - 2025 DSF Board Results - Nov 22nd 2024](https://django-news.com/issues/260)
 - [Django News - DjangoCon Europe 2025 in Dublin, Ireland! 🍀 - Nov 15th 2024](https://django-news.com/issues/259)
 - [Django News - Django bugfix release issued: 5.1.3 - Nov 8th 2024](https://django-news.com/issues/258)
 - [Django News - Django Girls Turns 10 - Nov 1st 2024](https://django-news.com/issues/257)
-- [Django News - Last chance to run for the DSF Board - Oct 25th 2024](https://django-news.com/issues/256)
 <!--END_SECTION:news-->
 
 ## Recent Django Jobs
 
 <!--START_SECTION:jobs-->
+- [Full-Stack Web Engineer (Python/Django Specialist)](https://jobs.django-news.com/361/full-stack-web-engineer-pythondjango-specialist-e180-inc/)
 - [Remote Senior Django Full-Stack Developer (German speaking)](https://jobs.django-news.com/359/remote-senior-django-full-stack-developer-german-speaking-immometrica/)
 - [Full Stack Python Developer](https://jobs.django-news.com/351/full-stack-python-developer-teralumen-solutions-pvt-ltd/)
 - [Senior Python Engineer](https://jobs.django-news.com/348/senior-python-engineer-kazang-a-company-part-of-the-lesaka-technologies-group/)
-- [Chief Technology Officer](https://jobs.django-news.com/346/chief-technology-officer-torchbox/)
 <!--END_SECTION:jobs-->
 
 ## Recent Django Chat Podcast Episodes
