@@ -42,11 +42,11 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django Videos
 
 <!--START_SECTION:videos-->
-- ["Django: Looking Forward to the Next 20 years" with Emma Delescolle](http://djangotv.com/videos/djangonaut-space/2024/django-looking-forward-to-the-next-20-years-with-emma-delescolle/)
-- ["Demystifying the Django ORM" with Simon Charette | Djangonaut Space](http://djangotv.com/videos/djangonaut-space/2024/demystifying-the-django-orm-with-simon-charette-djangonaut-space/)
-- [Denny Biasiolli - Django migrations, friend or foe? Optimize them for testing](http://djangotv.com/videos/django-day-copenhagen/2024/denny-biasiolli-django-migrations-friend-or-foe-optimize-them-for-testing/)
-- [Rosamund Mather - Mapping out Berlin's female history with Django and Leaflet.js](http://djangotv.com/videos/django-day-copenhagen/2024/rosamund-mather-mapping-out-berlins-female-history-with-django-and-leafletjs/)
-- [Raffaella Suardini - From junior developer to Django contributor: My open source journey](http://djangotv.com/videos/django-day-copenhagen/2024/raffaella-suardini-from-junior-developer-to-django-contributor-my-open-source-journey/)
+- [Keynote - Power to the People who Teach the People with Sheena O'Connell](http://djangotv.com/videos/djangocon-us/2024/keynote-power-to-the-people-who-teach-the-people-with-sheena-oconnell/)
+- [Choosing Wisely: SPA vs. HTMX for Your Next Web Project with Chris May](http://djangotv.com/videos/djangocon-us/2024/choosing-wisely-spa-vs-htmx-for-your-next-web-project-with-chris-may/)
+- [Orientation with Kojo Idrissa](http://djangotv.com/videos/djangocon-us/2024/orientation-with-kojo-idrissa/)
+- [Lightning Talks (Monday) with Andrew Mshar](http://djangotv.com/videos/djangocon-us/2024/lightning-talks-monday-with-andrew-mshar/)
+- [Error Culture with Ryan Cheley](http://djangotv.com/videos/djangocon-us/2024/error-culture-with-ryan-cheley/)
 <!--END_SECTION:videos-->
 
 ## Follow us
