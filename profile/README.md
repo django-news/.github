@@ -32,11 +32,11 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django Chat Podcast Episodes
 
 <!--START_SECTION:episodes-->
+- [pretix - Raphael Michel](https://djangochat.com)
 - [Python Tooling - Hynek Schlawack](https://djangochat.com)
 - [Django for the Meat Industry - Bryton Wishart](https://djangochat.com)
 - [Python Core Developer - Mariatta Wijaya](https://djangochat.com)
 - [Thibaud Colas - 2025 DSF Board Nominations](https://djangochat.com)
-- [DjangoCon US 2024 Recap - Tim Schilling](https://djangochat.com)
 <!--END_SECTION:episodes-->
 
 ## Recent Django Videos
