@@ -13,20 +13,20 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django News
 
 <!--START_SECTION:news-->
+- [Django News - Django 6.x Steering Council Election Results - Dec 20th 2024](https://django-news.com/issues/264)
 - [Django News - Django 6.x Steering Council Candidates - Dec 13th 2024](https://django-news.com/issues/263)
 - [Django News - Django security releases issued: 5.1.4, 5.0.10, and 4.2.17 - Dec 6th 2024](https://django-news.com/issues/262)
 - [Django News - 2024 Malcolm Tredinnick Memorial Prize awarded to Rachell Calhoun - Nov 29th 2024](https://django-news.com/issues/261)
 - [Django News - 2025 DSF Board Results - Nov 22nd 2024](https://django-news.com/issues/260)
-- [Django News - DjangoCon Europe 2025 in Dublin, Ireland! 🍀 - Nov 15th 2024](https://django-news.com/issues/259)
 <!--END_SECTION:news-->
 
 ## Recent Django Jobs
 
 <!--START_SECTION:jobs-->
+- [Full-stack Python Developer](https://jobs.django-news.com/368/full-stack-python-developer-scalable-path/)
 - [Full-Stack Web Engineer (Python/Django Specialist)](https://jobs.django-news.com/361/full-stack-web-engineer-pythondjango-specialist-e180-inc/)
 - [Remote Senior Django Full-Stack Developer (German speaking)](https://jobs.django-news.com/359/remote-senior-django-full-stack-developer-german-speaking-immometrica/)
 - [Full Stack Python Developer](https://jobs.django-news.com/351/full-stack-python-developer-teralumen-solutions-pvt-ltd/)
-- [Senior Python Engineer](https://jobs.django-news.com/348/senior-python-engineer-kazang-a-company-part-of-the-lesaka-technologies-group/)
 <!--END_SECTION:jobs-->
 
 ## Recent Django Chat Podcast Episodes
