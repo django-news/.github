@@ -13,20 +13,20 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django News
 
 <!--START_SECTION:news-->
+- [Django News - 🎊 DjangoCon US 2025, Wagtail Updates, and Tips for Django Developers - Jan 3rd 2025](https://django-news.com/issues/266)
 - [Django News - New Django Accessibility Team Members, Performance Pitfalls, and PyCon US 2025! - Dec 27th 2024](https://django-news.com/issues/265)
 - [Django News - Django 6.x Steering Council Election Results - Dec 20th 2024](https://django-news.com/issues/264)
 - [Django News - Django 6.x Steering Council Candidates - Dec 13th 2024](https://django-news.com/issues/263)
 - [Django News - Django security releases issued: 5.1.4, 5.0.10, and 4.2.17 - Dec 6th 2024](https://django-news.com/issues/262)
-- [Django News - 2024 Malcolm Tredinnick Memorial Prize awarded to Rachell Calhoun - Nov 29th 2024](https://django-news.com/issues/261)
 <!--END_SECTION:news-->
 
 ## Recent Django Jobs
 
 <!--START_SECTION:jobs-->
+- [Front-end developer](https://jobs.django-news.com/372/front-end-developer-cassandraapp/)
+- [Full-stack Django Developer](https://jobs.django-news.com/371/full-stack-django-developer-cassandraapp/)
+- [Développeur(se) back-end en CDI](https://jobs.django-news.com/370/developpeurse-back-end-en-cdi-brief-media/)
 - [Full-stack Python Developer](https://jobs.django-news.com/368/full-stack-python-developer-scalable-path/)
-- [Full-Stack Web Engineer (Python/Django Specialist)](https://jobs.django-news.com/361/full-stack-web-engineer-pythondjango-specialist-e180-inc/)
-- [Remote Senior Django Full-Stack Developer (German speaking)](https://jobs.django-news.com/359/remote-senior-django-full-stack-developer-german-speaking-immometrica/)
-- [Full Stack Python Developer](https://jobs.django-news.com/351/full-stack-python-developer-teralumen-solutions-pvt-ltd/)
 <!--END_SECTION:jobs-->
 
 ## Recent Django Chat Podcast Episodes
