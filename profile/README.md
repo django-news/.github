@@ -24,7 +24,7 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 
 <!--START_SECTION:jobs-->
 - [Front-end developer](https://jobs.django-news.com/372/front-end-developer-cassandraapp/)
-- [Full-stack Django Developer](https://jobs.django-news.com/371/full-stack-django-developer-cassandraapp/)
+- [Lead Django Developer](https://jobs.django-news.com/371/full-stack-django-developer-cassandraapp/)
 - [Développeur(se) back-end en CDI](https://jobs.django-news.com/370/developpeurse-back-end-en-cdi-brief-media/)
 - [Full-stack Python Developer](https://jobs.django-news.com/368/full-stack-python-developer-scalable-path/)
 <!--END_SECTION:jobs-->
@@ -32,11 +32,11 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django Chat Podcast Episodes
 
 <!--START_SECTION:episodes-->
+- [Django in 2025](https://djangochat.com)
 - [pretix - Raphael Michel](https://djangochat.com)
 - [Python Tooling - Hynek Schlawack](https://djangochat.com)
 - [Django for the Meat Industry - Bryton Wishart](https://djangochat.com)
 - [Python Core Developer - Mariatta Wijaya](https://djangochat.com)
-- [Thibaud Colas - 2025 DSF Board Nominations](https://djangochat.com)
 <!--END_SECTION:episodes-->
 
 ## Recent Django Videos
