@@ -13,11 +13,11 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django News
 
 <!--START_SECTION:news-->
+- [Django News - Django 5.1.5 security release - Jan 17th 2025](https://django-news.com/issues/268)
 - [Django News - CFPs for DjangoCon Europe and DjangoCongress JP - Jan 10th 2025](https://django-news.com/issues/267)
 - [Django News - 🎊 DjangoCon US 2025, Wagtail Updates, and Tips for Django Developers - Jan 3rd 2025](https://django-news.com/issues/266)
 - [Django News - New Django Accessibility Team Members, Performance Pitfalls, and PyCon US 2025! - Dec 27th 2024](https://django-news.com/issues/265)
 - [Django News - Django 6.x Steering Council Election Results - Dec 20th 2024](https://django-news.com/issues/264)
-- [Django News - Django 6.x Steering Council Candidates - Dec 13th 2024](https://django-news.com/issues/263)
 <!--END_SECTION:news-->
 
 ## Recent Django Jobs
