@@ -13,20 +13,20 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django News
 
 <!--START_SECTION:news-->
+- [Django News - 400 DSF Members - Jan 31st 2025](https://django-news.com/issues/270)
 - [Django News - Django 5.2 alpha 1 release - Jan 24th 2025](https://django-news.com/issues/269)
 - [Django News - Django 5.1.5 security release - Jan 17th 2025](https://django-news.com/issues/268)
 - [Django News - CFPs for DjangoCon Europe and DjangoCongress JP - Jan 10th 2025](https://django-news.com/issues/267)
 - [Django News - 🎊 DjangoCon US 2025, Wagtail Updates, and Tips for Django Developers - Jan 3rd 2025](https://django-news.com/issues/266)
-- [Django News - New Django Accessibility Team Members, Performance Pitfalls, and PyCon US 2025! - Dec 27th 2024](https://django-news.com/issues/265)
 <!--END_SECTION:news-->
 
 ## Recent Django Jobs
 
 <!--START_SECTION:jobs-->
+- [Jr. Web Services Engineer](https://jobs.django-news.com/396/jr-web-services-engineer-panic/)
 - [Senior Backend Engineer](https://jobs.django-news.com/389/senior-backend-engineer-bactobio/)
 - [Software Engineer I](https://jobs.django-news.com/377/job-application-for-software-engineer-i-at-spark-technology-roles/)
 - [Senior Software Engineer](https://jobs.django-news.com/376/job-application-for-senior-software-engineer-at-spark-technology-roles/)
-- [Engineering Manager](https://jobs.django-news.com/375/job-application-for-engineering-manager-at-spark-technology-roles/)
 <!--END_SECTION:jobs-->
 
 ## Recent Django Chat Podcast Episodes
