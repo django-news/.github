@@ -23,20 +23,20 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django Jobs
 
 <!--START_SECTION:jobs-->
+- [Full-Stack engineer](https://jobs.django-news.com/431/full-stack-engineer-exoscale/)
 - [Jr. Web Services Engineer](https://jobs.django-news.com/396/jr-web-services-engineer-panic/)
 - [Senior Backend Engineer](https://jobs.django-news.com/389/senior-backend-engineer-bactobio/)
 - [Software Engineer I](https://jobs.django-news.com/377/job-application-for-software-engineer-i-at-spark-technology-roles/)
-- [Senior Software Engineer](https://jobs.django-news.com/376/job-application-for-senior-software-engineer-at-spark-technology-roles/)
 <!--END_SECTION:jobs-->
 
 ## Recent Django Chat Podcast Episodes
 
 <!--START_SECTION:episodes-->
+- [The Future of Django - Emma Delescolle](https://djangochat.com)
 - [Beyond Golden Pathways - Teaching Django with Sheena O’Connell](https://djangochat.com)
 - [Django in 2025](https://djangochat.com)
 - [pretix - Raphael Michel](https://djangochat.com)
 - [Python Tooling - Hynek Schlawack](https://djangochat.com)
-- [Django for the Meat Industry - Bryton Wishart](https://djangochat.com)
 <!--END_SECTION:episodes-->
 
 ## Recent Django Videos
