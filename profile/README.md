@@ -42,11 +42,11 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django Videos
 
 <!--START_SECTION:videos-->
-- [Keynote - Power to the People who Teach the People with Sheena O'Connell](http://djangotv.com/videos/djangocon-us/2024/keynote-power-to-the-people-who-teach-the-people-with-sheena-oconnell/)
-- [Choosing Wisely: SPA vs. HTMX for Your Next Web Project with Chris May](http://djangotv.com/videos/djangocon-us/2024/choosing-wisely-spa-vs-htmx-for-your-next-web-project-with-chris-may/)
+- [Run your tests against Django's main! – Django London Meetup](http://djangotv.com/videos/unknown/9999/run-your-tests-against-djangos-main-django-london-meetup/)
+- [Troubleshooting is a Lifestyle 😎 with Jack Linke](http://djangotv.com/videos/djangocon-us/2024/troubleshooting-is-a-lifestyle-with-jack-linke/)
 - [Orientation with Kojo Idrissa](http://djangotv.com/videos/djangocon-us/2024/orientation-with-kojo-idrissa/)
-- [Lightning Talks (Monday) with Andrew Mshar](http://djangotv.com/videos/djangocon-us/2024/lightning-talks-monday-with-andrew-mshar/)
 - [Error Culture with Ryan Cheley](http://djangotv.com/videos/djangocon-us/2024/error-culture-with-ryan-cheley/)
+- [Keynote - Power to the People who Teach the People with Sheena O'Connell](http://djangotv.com/videos/djangocon-us/2024/keynote-power-to-the-people-who-teach-the-people-with-sheena-oconnell/)
 <!--END_SECTION:videos-->
 
 ## Follow us
