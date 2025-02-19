@@ -32,11 +32,11 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django Chat Podcast Episodes
 
 <!--START_SECTION:episodes-->
+- [Official Django MongoDB Backend - Jib Adegunloye](https://djangochat.com)
 - [The Future of Django - Emma Delescolle](https://djangochat.com)
 - [Beyond Golden Pathways - Teaching Django with Sheena O’Connell](https://djangochat.com)
 - [Django in 2025](https://djangochat.com)
 - [pretix - Raphael Michel](https://djangochat.com)
-- [Python Tooling - Hynek Schlawack](https://djangochat.com)
 <!--END_SECTION:episodes-->
 
 ## Recent Django Videos
@@ -46,7 +46,7 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 - [Troubleshooting is a Lifestyle 😎 with Jack Linke](http://djangotv.com/videos/djangocon-us/2024/troubleshooting-is-a-lifestyle-with-jack-linke/)
 - [Orientation with Kojo Idrissa](http://djangotv.com/videos/djangocon-us/2024/orientation-with-kojo-idrissa/)
 - [Error Culture with Ryan Cheley](http://djangotv.com/videos/djangocon-us/2024/error-culture-with-ryan-cheley/)
-- [Keynote - Power to the People who Teach the People with Sheena O'Connell](http://djangotv.com/videos/djangocon-us/2024/keynote-power-to-the-people-who-teach-the-people-with-sheena-oconnell/)
+- [Lightning Talks (Monday) with Andrew Mshar](http://djangotv.com/videos/djangocon-us/2024/lightning-talks-monday-with-andrew-mshar/)
 <!--END_SECTION:videos-->
 
 ## Follow us
