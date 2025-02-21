@@ -13,20 +13,20 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django News
 
 <!--START_SECTION:news-->
+- [Django News - Django 5.2 Beta 1 & DjangoCongress JP goes live! - Feb 21st 2025](https://django-news.com/issues/273)
 - [Django News - DjangoCon US Call for Proposals - Feb 14th 2025](https://django-news.com/issues/272)
 - [Django News - Official MongoDB Backend Support - Feb 7th 2025](https://django-news.com/issues/271)
 - [Django News - 400 DSF Members - Jan 31st 2025](https://django-news.com/issues/270)
 - [Django News - Django 5.2 alpha 1 release - Jan 24th 2025](https://django-news.com/issues/269)
-- [Django News - Django 5.1.5 security release - Jan 17th 2025](https://django-news.com/issues/268)
 <!--END_SECTION:news-->
 
 ## Recent Django Jobs
 
 <!--START_SECTION:jobs-->
+- [Mid/senior level django developer](https://jobs.django-news.com/435/midsenior-level-django-developer-green-web-foundation/)
 - [Jr. Web Services Engineer](https://jobs.django-news.com/396/jr-web-services-engineer-panic/)
 - [Senior Backend Engineer](https://jobs.django-news.com/389/senior-backend-engineer-bactobio/)
 - [Software Engineer I](https://jobs.django-news.com/377/job-application-for-software-engineer-i-at-spark-technology-roles/)
-- [Senior Software Engineer](https://jobs.django-news.com/376/job-application-for-senior-software-engineer-at-spark-technology-roles/)
 <!--END_SECTION:jobs-->
 
 ## Recent Django Chat Podcast Episodes
