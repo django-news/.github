@@ -42,11 +42,11 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django Videos
 
 <!--START_SECTION:videos-->
+- [DjangoCongress JP 2025 ROOM2](http://djangotv.com/videos/djangocongress-jp/2025/djangocongress-jp-2025-room2/)
+- [DjangoCongress JP 2025 ROOM1](http://djangotv.com/videos/djangocongress-jp/2025/djangocongress-jp-2025-room1/)
 - [Run your tests against Django's main! – Django London Meetup](http://djangotv.com/videos/unknown/9999/run-your-tests-against-djangos-main-django-london-meetup/)
-- [Troubleshooting is a Lifestyle 😎 with Jack Linke](http://djangotv.com/videos/djangocon-us/2024/troubleshooting-is-a-lifestyle-with-jack-linke/)
-- [Orientation with Kojo Idrissa](http://djangotv.com/videos/djangocon-us/2024/orientation-with-kojo-idrissa/)
-- [Error Culture with Ryan Cheley](http://djangotv.com/videos/djangocon-us/2024/error-culture-with-ryan-cheley/)
 - [Lightning Talks (Monday) with Andrew Mshar](http://djangotv.com/videos/djangocon-us/2024/lightning-talks-monday-with-andrew-mshar/)
+- [Error Culture with Ryan Cheley](http://djangotv.com/videos/djangocon-us/2024/error-culture-with-ryan-cheley/)
 <!--END_SECTION:videos-->
 
 ## Follow us
