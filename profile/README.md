@@ -23,10 +23,10 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django Jobs
 
 <!--START_SECTION:jobs-->
+- [Software engineer(all levels)](https://jobs.django-news.com/442/software-engineerall-levels-carbon-equity/)
 - [Junior Full Stack Developer – Python](https://jobs.django-news.com/439/junior-full-stack-developer-python/)
 - [Senior Software Engineer, Backend](https://jobs.django-news.com/437/careers-at-rocketreach/)
 - [Mid/senior level django developer](https://jobs.django-news.com/435/midsenior-level-django-developer-green-web-foundation/)
-- [Jr. Web Services Engineer](https://jobs.django-news.com/396/jr-web-services-engineer-panic/)
 <!--END_SECTION:jobs-->
 
 ## Recent Django Chat Podcast Episodes
