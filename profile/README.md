@@ -25,8 +25,8 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 <!--START_SECTION:jobs-->
 - [Software engineer(all levels)](https://jobs.django-news.com/442/software-engineerall-levels-carbon-equity/)
 - [Junior Full Stack Developer – Python](https://jobs.django-news.com/439/junior-full-stack-developer-python/)
-- [Senior Software Engineer, Backend](https://jobs.django-news.com/437/careers-at-rocketreach/)
 - [Mid/senior level django developer](https://jobs.django-news.com/435/midsenior-level-django-developer-green-web-foundation/)
+- [Jr. Web Services Engineer](https://jobs.django-news.com/396/jr-web-services-engineer-panic/)
 <!--END_SECTION:jobs-->
 
 ## Recent Django Chat Podcast Episodes
@@ -46,7 +46,7 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 - [DjangoCongress JP 2025 ROOM2](http://djangotv.com/videos/djangocongress-jp/2025/djangocongress-jp-2025-room2/)
 - [DjangoCongress JP 2025 ROOM1](http://djangotv.com/videos/djangocongress-jp/2025/djangocongress-jp-2025-room1/)
 - [Run your tests against Django's main! – Django London Meetup](http://djangotv.com/videos/unknown/9999/run-your-tests-against-djangos-main-django-london-meetup/)
-- [Error Culture with Ryan Cheley](http://djangotv.com/videos/djangocon-us/2024/error-culture-with-ryan-cheley/)
+- [Choosing Wisely: SPA vs. HTMX for Your Next Web Project with Chris May](http://djangotv.com/videos/djangocon-us/2024/choosing-wisely-spa-vs-htmx-for-your-next-web-project-with-chris-may/)
 <!--END_SECTION:videos-->
 
 ## Follow us
