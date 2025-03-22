@@ -23,10 +23,10 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django Jobs
 
 <!--START_SECTION:jobs-->
+- [Web Developer](https://jobs.django-news.com/451/web-developer-full-fact/)
 - [Senior Developer Advocate](https://jobs.django-news.com/444/senior-developer-advocate-mongodb/)
 - [Software engineer(all levels)](https://jobs.django-news.com/442/software-engineerall-levels-carbon-equity/)
 - [Junior Full Stack Developer – Python](https://jobs.django-news.com/439/junior-full-stack-developer-python/)
-- [Mid/senior level django developer](https://jobs.django-news.com/435/midsenior-level-django-developer-green-web-foundation/)
 <!--END_SECTION:jobs-->
 
 ## Recent Django Chat Podcast Episodes
@@ -43,8 +43,8 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 
 <!--START_SECTION:videos-->
 - [Keeping Django relevant for the next 20 years - Thibaud Colas](http://djangotv.com/videos/unknown/9999/keeping-django-relevant-for-the-next-20-years-thibaud-colas-django-london/)
-- [DjangoCongress JP 2025 ROOM1](http://djangotv.com/videos/djangocongress-jp/2025/djangocongress-jp-2025-room1/)
 - [DjangoCongress JP 2025 ROOM2](http://djangotv.com/videos/djangocongress-jp/2025/djangocongress-jp-2025-room2/)
+- [DjangoCongress JP 2025 ROOM1](http://djangotv.com/videos/djangocongress-jp/2025/djangocongress-jp-2025-room1/)
 - [Run your tests against Django's main!](http://djangotv.com/videos/unknown/9999/run-your-tests-against-djangos-main-django-london-meetup/)
 - [Choosing Wisely: SPA vs. HTMX for Your Next Web Project with Chris May](http://djangotv.com/videos/djangocon-us/2024/choosing-wisely-spa-vs-htmx-for-your-next-web-project-with-chris-may/)
 <!--END_SECTION:videos-->
