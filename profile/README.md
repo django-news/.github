@@ -13,11 +13,11 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django News
 
 <!--START_SECTION:news-->
+- [Django News - Django 5.2 is here! - Apr 4th 2025](https://django-news.com/issues/279)
 - [Django News - 20 PRs Merged into Django Core This Week Alone!  - Mar 28th 2025](https://django-news.com/issues/278)
 - [Django News - Django 5.2 RC1, Python 3.14 Alpha, and New Security Discussions - Mar 21st 2025](https://django-news.com/issues/277)
 - [Django News - DjangoCon US CFP - Mar 14th 2025](https://django-news.com/issues/276)
 - [Django News - Django 5.1.7, 5.0.13, and 4.2.20 - Mar 7th 2025](https://django-news.com/issues/275)
-- [Django News - Wagtail 6.4.1 - Feb 28th 2025](https://django-news.com/issues/274)
 <!--END_SECTION:news-->
 
 ## Recent Django Jobs
@@ -43,8 +43,8 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 
 <!--START_SECTION:videos-->
 - [Keeping Django relevant for the next 20 years - Thibaud Colas](http://djangotv.com/videos/unknown/9999/keeping-django-relevant-for-the-next-20-years-thibaud-colas-django-london/)
-- [DjangoCongress JP 2025 ROOM2](http://djangotv.com/videos/djangocongress-jp/2025/djangocongress-jp-2025-room2/)
 - [DjangoCongress JP 2025 ROOM1](http://djangotv.com/videos/djangocongress-jp/2025/djangocongress-jp-2025-room1/)
+- [DjangoCongress JP 2025 ROOM2](http://djangotv.com/videos/djangocongress-jp/2025/djangocongress-jp-2025-room2/)
 - [Run your tests against Django's main!](http://djangotv.com/videos/unknown/9999/run-your-tests-against-djangos-main-django-london-meetup/)
 - [Power to the People who Teach the People with Sheena O'Connell](http://djangotv.com/videos/djangocon-us/2024/keynote-power-to-the-people-who-teach-the-people-with-sheena-oconnell/)
 <!--END_SECTION:videos-->
