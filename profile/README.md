@@ -23,10 +23,10 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django Jobs
 
 <!--START_SECTION:jobs-->
+- [Senior Full Stack Web Developer (Python/Django + CMS)](https://jobs.django-news.com/457/senior-full-stack-web-developer-pythondjango-cms-vannoppen-marketing/)
 - [Web Developer](https://jobs.django-news.com/451/web-developer-full-fact/)
 - [Senior Developer Advocate](https://jobs.django-news.com/444/senior-developer-advocate-mongodb/)
 - [Software engineer(all levels)](https://jobs.django-news.com/442/software-engineerall-levels-carbon-equity/)
-- [Junior Full Stack Developer – Python](https://jobs.django-news.com/439/junior-full-stack-developer-python/)
 <!--END_SECTION:jobs-->
 
 ## Recent Django Chat Podcast Episodes
@@ -43,10 +43,10 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 
 <!--START_SECTION:videos-->
 - [Keeping Django relevant for the next 20 years - Thibaud Colas](http://djangotv.com/videos/unknown/9999/keeping-django-relevant-for-the-next-20-years-thibaud-colas-django-london/)
-- [DjangoCongress JP 2025 ROOM2](http://djangotv.com/videos/djangocongress-jp/2025/djangocongress-jp-2025-room2/)
 - [DjangoCongress JP 2025 ROOM1](http://djangotv.com/videos/djangocongress-jp/2025/djangocongress-jp-2025-room1/)
+- [DjangoCongress JP 2025 ROOM2](http://djangotv.com/videos/djangocongress-jp/2025/djangocongress-jp-2025-room2/)
 - [Run your tests against Django's main!](http://djangotv.com/videos/unknown/9999/run-your-tests-against-djangos-main-django-london-meetup/)
-- [Power to the People who Teach the People with Sheena O'Connell](http://djangotv.com/videos/djangocon-us/2024/keynote-power-to-the-people-who-teach-the-people-with-sheena-oconnell/)
+- [Troubleshooting is a Lifestyle 😎 with Jack Linke](http://djangotv.com/videos/djangocon-us/2024/troubleshooting-is-a-lifestyle-with-jack-linke/)
 <!--END_SECTION:videos-->
 
 ## Follow us
