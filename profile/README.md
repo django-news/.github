@@ -46,7 +46,7 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 - [DjangoCongress JP 2025 ROOM1](http://djangotv.com/videos/djangocongress-jp/2025/djangocongress-jp-2025-room1/)
 - [DjangoCongress JP 2025 ROOM2](http://djangotv.com/videos/djangocongress-jp/2025/djangocongress-jp-2025-room2/)
 - [Run your tests against Django's main!](http://djangotv.com/videos/unknown/9999/run-your-tests-against-djangos-main-django-london-meetup/)
-- [Power to the People who Teach the People with Sheena O'Connell](http://djangotv.com/videos/djangocon-us/2024/keynote-power-to-the-people-who-teach-the-people-with-sheena-oconnell/)
+- [Error Culture with Ryan Cheley](http://djangotv.com/videos/djangocon-us/2024/error-culture-with-ryan-cheley/)
 <!--END_SECTION:videos-->
 
 ## Follow us
