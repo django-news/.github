@@ -32,11 +32,11 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django Chat Podcast Episodes
 
 <!--START_SECTION:episodes-->
+- [Coding with LLMs - Frank Wiles](https://djangochat.com)
 - [PyCon US 2025 - Elaine Wong & Jon Banafato](https://djangochat.com)
 - [Django and Rust Tooling - Lily Foote](https://djangochat.com)
 - [Sticking with Django - Florian Apolloner](https://djangochat.com)
 - [Official Django MongoDB Backend - Jib Adegunloye](https://djangochat.com)
-- [The Future of Django - Emma Delescolle](https://djangochat.com)
 <!--END_SECTION:episodes-->
 
 ## Recent Django Videos
@@ -46,7 +46,7 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 - [DjangoCongress JP 2025 ROOM2](http://djangotv.com/videos/djangocongress-jp/2025/djangocongress-jp-2025-room2/)
 - [DjangoCongress JP 2025 ROOM1](http://djangotv.com/videos/djangocongress-jp/2025/djangocongress-jp-2025-room1/)
 - [Run your tests against Django's main!](http://djangotv.com/videos/unknown/9999/run-your-tests-against-djangos-main-django-london-meetup/)
-- [Power to the People who Teach the People with Sheena O'Connell](http://djangotv.com/videos/djangocon-us/2024/keynote-power-to-the-people-who-teach-the-people-with-sheena-oconnell/)
+- [Choosing Wisely: SPA vs. HTMX for Your Next Web Project with Chris May](http://djangotv.com/videos/djangocon-us/2024/choosing-wisely-spa-vs-htmx-for-your-next-web-project-with-chris-may/)
 <!--END_SECTION:videos-->
 
 ## Follow us
