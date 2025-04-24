@@ -9,6 +9,7 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 - :tv: [Django TV](https://djangotv.com)
 - :books: [Django Book](https://djangobook.com)
 - :dark_sunglasses: [Awesome Django](https://awesomedjango.org)
+- :ring: [The Great Django Webring](https://djangowebring.com)
 
 ## Recent Django News
 
