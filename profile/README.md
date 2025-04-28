@@ -44,8 +44,8 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 
 <!--START_SECTION:videos-->
 - [Keeping Django relevant for the next 20 years - Thibaud Colas](http://djangotv.com/videos/unknown/9999/keeping-django-relevant-for-the-next-20-years-thibaud-colas-django-london/)
-- [DjangoCongress JP 2025 ROOM2](http://djangotv.com/videos/djangocongress-jp/2025/djangocongress-jp-2025-room2/)
 - [DjangoCongress JP 2025 ROOM1](http://djangotv.com/videos/djangocongress-jp/2025/djangocongress-jp-2025-room1/)
+- [DjangoCongress JP 2025 ROOM2](http://djangotv.com/videos/djangocongress-jp/2025/djangocongress-jp-2025-room2/)
 - [Run your tests against Django's main!](http://djangotv.com/videos/unknown/9999/run-your-tests-against-djangos-main-django-london-meetup/)
 - [Orientation with Kojo Idrissa](http://djangotv.com/videos/djangocon-us/2024/orientation-with-kojo-idrissa/)
 <!--END_SECTION:videos-->
