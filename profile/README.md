@@ -33,19 +33,19 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django Chat Podcast Episodes
 
 <!--START_SECTION:episodes-->
+- [DjangoCon Europe 2025 Recap](https://djangochat.com)
 - [Coding with LLMs - Frank Wiles](https://djangochat.com)
 - [PyCon US 2025 - Elaine Wong & Jon Banafato](https://djangochat.com)
 - [Django and Rust Tooling - Lily Foote](https://djangochat.com)
 - [Sticking with Django - Florian Apolloner](https://djangochat.com)
-- [Official Django MongoDB Backend - Jib Adegunloye](https://djangochat.com)
 <!--END_SECTION:episodes-->
 
 ## Recent Django Videos
 
 <!--START_SECTION:videos-->
 - [Keeping Django relevant for the next 20 years - Thibaud Colas](http://djangotv.com/videos/unknown/9999/keeping-django-relevant-for-the-next-20-years-thibaud-colas-django-london/)
-- [DjangoCongress JP 2025 ROOM2](http://djangotv.com/videos/djangocongress-jp/2025/djangocongress-jp-2025-room2/)
 - [DjangoCongress JP 2025 ROOM1](http://djangotv.com/videos/djangocongress-jp/2025/djangocongress-jp-2025-room1/)
+- [DjangoCongress JP 2025 ROOM2](http://djangotv.com/videos/djangocongress-jp/2025/djangocongress-jp-2025-room2/)
 - [Run your tests against Django's main!](http://djangotv.com/videos/unknown/9999/run-your-tests-against-djangos-main-django-london-meetup/)
 - [Troubleshooting is a Lifestyle 😎 with Jack Linke](http://djangotv.com/videos/djangocon-us/2024/troubleshooting-is-a-lifestyle-with-jack-linke/)
 <!--END_SECTION:videos-->
