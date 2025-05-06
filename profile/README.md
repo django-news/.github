@@ -47,7 +47,7 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 - [DjangoCongress JP 2025 ROOM1](http://djangotv.com/videos/djangocongress-jp/2025/djangocongress-jp-2025-room1/)
 - [DjangoCongress JP 2025 ROOM2](http://djangotv.com/videos/djangocongress-jp/2025/djangocongress-jp-2025-room2/)
 - [Run your tests against Django's main!](http://djangotv.com/videos/unknown/9999/run-your-tests-against-djangos-main-django-london-meetup/)
-- [Troubleshooting is a Lifestyle 😎 with Jack Linke](http://djangotv.com/videos/djangocon-us/2024/troubleshooting-is-a-lifestyle-with-jack-linke/)
+- [Choosing Wisely: SPA vs. HTMX for Your Next Web Project with Chris May](http://djangotv.com/videos/djangocon-us/2024/choosing-wisely-spa-vs-htmx-for-your-next-web-project-with-chris-may/)
 <!--END_SECTION:videos-->
 
 ## Follow us
