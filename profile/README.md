@@ -14,11 +14,11 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django News
 
 <!--START_SECTION:news-->
+- [Django News - Python 3.14.0 beta is here - May 9th 2025](https://django-news.com/issues/284)
 - [Django News - Template Tricks, DjangoCon Europe, and Community Wins - May 2nd 2025](https://django-news.com/issues/283)
 - [Django News - Revamp Your Django Admin and Supercharge Search - Apr 25th 2025](https://django-news.com/issues/282)
 - [Django News - Django 5.2 Fixes, Wagtail Updates & GeoDjango Mapping​ - Apr 18th 2025](https://django-news.com/issues/281)
 - [Django News - Python 3.14.0a7 and every Python now available - Apr 11th 2025](https://django-news.com/issues/280)
-- [Django News - Django 5.2 is here! - Apr 4th 2025](https://django-news.com/issues/279)
 <!--END_SECTION:news-->
 
 ## Recent Django Jobs
