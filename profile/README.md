@@ -43,11 +43,11 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django Videos
 
 <!--START_SECTION:videos-->
-- [Keeping Django relevant for the next 20 years - Thibaud Colas](http://djangotv.com/videos/unknown/9999/keeping-django-relevant-for-the-next-20-years-thibaud-colas-django-london/)
-- [DjangoCongress JP 2025 ROOM1](http://djangotv.com/videos/djangocongress-jp/2025/djangocongress-jp-2025-room1/)
-- [DjangoCongress JP 2025 ROOM2](http://djangotv.com/videos/djangocongress-jp/2025/djangocongress-jp-2025-room2/)
-- [Run your tests against Django's main!](http://djangotv.com/videos/unknown/9999/run-your-tests-against-djangos-main-django-london-meetup/)
-- [Power to the People who Teach the People with Sheena O'Connell](http://djangotv.com/videos/djangocon-us/2024/keynote-power-to-the-people-who-teach-the-people-with-sheena-oconnell/)
+- [Keeping Django relevant for the next 20 years - Thibaud Colas](https://djangotv.com/videos/unknown/9999/keeping-django-relevant-for-the-next-20-years-thibaud-colas-django-london/)
+- [DjangoCongress JP 2025 ROOM2](https://djangotv.com/videos/djangocongress-jp/2025/djangocongress-jp-2025-room2/)
+- [DjangoCongress JP 2025 ROOM1](https://djangotv.com/videos/djangocongress-jp/2025/djangocongress-jp-2025-room1/)
+- [Run your tests against Django's main!](https://djangotv.com/videos/unknown/9999/run-your-tests-against-djangos-main-django-london-meetup/)
+- [Power to the People who Teach the People with Sheena O'Connell](https://djangotv.com/videos/djangocon-us/2024/keynote-power-to-the-people-who-teach-the-people-with-sheena-oconnell/)
 <!--END_SECTION:videos-->
 
 ## Follow us
