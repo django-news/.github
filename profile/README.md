@@ -24,10 +24,10 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django Jobs
 
 <!--START_SECTION:jobs-->
+- [Python / Django Software Developer - fulltime employee- No visa sponsorship](https://jobs.django-news.com/474/python-django-software-developer-fulltime-employee-no-visa-sponsorship-off-duty-management/)
 - [Backend Python Developer (Django/DRF)](https://jobs.django-news.com/472/backend-python-developer-djangodrf-paytree/)
 - [Senior Full Stack Web Developer (Python/Django + CMS)](https://jobs.django-news.com/457/senior-full-stack-web-developer-pythondjango-cms-vannoppen-marketing/)
 - [Web Developer](https://jobs.django-news.com/451/web-developer-full-fact/)
-- [Senior Developer Advocate](https://jobs.django-news.com/444/senior-developer-advocate-mongodb/)
 <!--END_SECTION:jobs-->
 
 ## Recent Django Chat Podcast Episodes
@@ -47,7 +47,7 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 - [DjangoCongress JP 2025 ROOM1](https://djangotv.com/videos/unknown/9999/djangocongress-jp-2025-room1/)
 - [DjangoCongress JP 2025 ROOM2](https://djangotv.com/videos/unknown/9999/djangocongress-jp-2025-room2/)
 - [Run your tests against Django's main!](https://djangotv.com/videos/unknown/9999/run-your-tests-against-djangos-main-django-london-meetup/)
-- [Orientation with Kojo Idrissa](https://djangotv.com/videos/djangocon-us/2024/orientation-with-kojo-idrissa/)
+- [Choosing Wisely: SPA vs. HTMX for Your Next Web Project with Chris May](https://djangotv.com/videos/djangocon-us/2024/choosing-wisely-spa-vs-htmx-for-your-next-web-project-with-chris-may/)
 <!--END_SECTION:videos-->
 
 ## Follow us
