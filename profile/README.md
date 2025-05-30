@@ -14,11 +14,11 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django News
 
 <!--START_SECTION:news-->
+- [Django News - DjangoCon US Early Bird Tickets - May 30th 2025](https://django-news.com/issues/287)
 - [Django News - Django Sprints on the Med? - May 23rd 2025](https://django-news.com/issues/286)
 - [Django News -  Django News is at PyCon US this weekend! - May 16th 2025](https://django-news.com/issues/285)
 - [Django News - Python 3.14.0 beta is here - May 9th 2025](https://django-news.com/issues/284)
 - [Django News - Template Tricks, DjangoCon Europe, and Community Wins - May 2nd 2025](https://django-news.com/issues/283)
-- [Django News - Revamp Your Django Admin and Supercharge Search - Apr 25th 2025](https://django-news.com/issues/282)
 <!--END_SECTION:news-->
 
 ## Recent Django Jobs
@@ -47,7 +47,7 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 - [DjangoCongress JP 2025 ROOM1](https://djangotv.com/videos/unknown/9999/djangocongress-jp-2025-room1/)
 - [DjangoCongress JP 2025 ROOM2](https://djangotv.com/videos/unknown/9999/djangocongress-jp-2025-room2/)
 - [Run your tests against Django's main!](https://djangotv.com/videos/unknown/9999/run-your-tests-against-djangos-main-django-london-meetup/)
-- [Choosing Wisely: SPA vs. HTMX for Your Next Web Project with Chris May](https://djangotv.com/videos/djangocon-us/2024/choosing-wisely-spa-vs-htmx-for-your-next-web-project-with-chris-may/)
+- [Troubleshooting is a Lifestyle 😎 with Jack Linke](https://djangotv.com/videos/djangocon-us/2024/troubleshooting-is-a-lifestyle-with-jack-linke/)
 <!--END_SECTION:videos-->
 
 ## Follow us
