@@ -43,11 +43,11 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django Videos
 
 <!--START_SECTION:videos-->
-- [Keeping Django relevant for the next 20 years - Thibaud Colas](https://djangotv.com/videos/unknown/9999/keeping-django-relevant-for-the-next-20-years-thibaud-colas-django-london/)
-- [DjangoCongress JP 2025 ROOM1](https://djangotv.com/videos/unknown/9999/djangocongress-jp-2025-room1/)
-- [DjangoCongress JP 2025 ROOM2](https://djangotv.com/videos/unknown/9999/djangocongress-jp-2025-room2/)
-- [Run your tests against Django's main!](https://djangotv.com/videos/unknown/9999/run-your-tests-against-djangos-main-django-london-meetup/)
-- [Troubleshooting is a Lifestyle 😎 with Jack Linke](https://djangotv.com/videos/djangocon-us/2024/troubleshooting-is-a-lifestyle-with-jack-linke/)
+- [Day 1 Lightning Talks](https://djangotv.com/videos/djangocon-europe/2025/djangocon-europe-2025-day-1-lightning-talks/)
+- [Logs, shells, caches and other strange words we use daily](https://djangotv.com/videos/djangocon-europe/2025/djangocon-europe-2025-logs-shells-caches-and-other-strange-words-we-use-daily/)
+- [Bulletproof Data Pipelines: Django, Celery, and the Power of Idempotency](https://djangotv.com/videos/djangocon-europe/2025/djangocon-europe-2025-bulletproof-data-pipelines-django-celery-and-the-power-of-idempotency/)
+- [How to solve a Python mystery](https://djangotv.com/videos/djangocon-europe/2025/djangocon-europe-2025-how-to-solve-a-python-mystery/)
+- [Django + HTMX: Patterns to Success](https://djangotv.com/videos/djangocon-europe/2025/djangocon-europe-2025-django-htmx-patterns-to-success/)
 <!--END_SECTION:videos-->
 
 ## Follow us
