@@ -25,9 +25,9 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 
 <!--START_SECTION:jobs-->
 - [Senior Backend Engineer](https://jobs.django-news.com/476/senior-backend-engineer-wasmer/)
-- [Python / Django Software Developer - fulltime employee- No visa sponsorship](https://jobs.django-news.com/474/python-django-software-developer-fulltime-employee-no-visa-sponsorship-off-duty-management/)
 - [Senior Full Stack Web Developer (Python/Django + CMS)](https://jobs.django-news.com/457/senior-full-stack-web-developer-pythondjango-cms-vannoppen-marketing/)
 - [Web Developer](https://jobs.django-news.com/451/web-developer-full-fact/)
+- [Senior Developer Advocate](https://jobs.django-news.com/444/senior-developer-advocate-mongodb/)
 <!--END_SECTION:jobs-->
 
 ## Recent Django Chat Podcast Episodes
