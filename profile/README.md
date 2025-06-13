@@ -14,20 +14,20 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django News
 
 <!--START_SECTION:news-->
+- [Django News - New Django Fellow Position! - Jun 13th 2025](https://django-news.com/issues/289)
 - [Django News - Django security releases issued: 5.2.2, 5.1.10, and 4.2.22 - Jun 6th 2025](https://django-news.com/issues/288)
 - [Django News - DjangoCon US Early Bird Tickets - May 30th 2025](https://django-news.com/issues/287)
 - [Django News - Django Sprints on the Med? - May 23rd 2025](https://django-news.com/issues/286)
 - [Django News -  Django News is at PyCon US this weekend! - May 16th 2025](https://django-news.com/issues/285)
-- [Django News - Python 3.14.0 beta is here - May 9th 2025](https://django-news.com/issues/284)
 <!--END_SECTION:news-->
 
 ## Recent Django Jobs
 
 <!--START_SECTION:jobs-->
+- [Full Stack Software Engineer](https://jobs.django-news.com/494/full-stack-software-engineer-switchboard/)
 - [Django Fellow](https://jobs.django-news.com/491/dsf-calls-for-applicants-for-a-django-fellow-weblog-django/)
 - [Senior Software Engineer](https://jobs.django-news.com/490/senior-software-engineer-simons-foundation/)
 - [Senior Backend Engineer](https://jobs.django-news.com/476/senior-backend-engineer-wasmer/)
-- [Senior Full Stack Web Developer (Python/Django + CMS)](https://jobs.django-news.com/457/senior-full-stack-web-developer-pythondjango-cms-vannoppen-marketing/)
 <!--END_SECTION:jobs-->
 
 ## Recent Django Chat Podcast Episodes
