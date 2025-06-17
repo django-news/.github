@@ -43,11 +43,11 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django Videos
 
 <!--START_SECTION:videos-->
-- [Day 2 Lightning Talks](https://djangotv.com/videos/djangocon-europe/2025/djangocon-europe-2025-day-2-lightning-talks/)
-- [Steering Council introduction](https://djangotv.com/videos/djangocon-europe/2025/djangocon-europe-2025-steering-council-introduction/)
-- [Passkeys in Django: the best of all possible worlds](https://djangotv.com/videos/djangocon-europe/2025/djangocon-europe-2025-passkeys-in-django-the-best-of-all-possible-worlds/)
-- [Dynamic models without dynamic models](https://djangotv.com/videos/djangocon-europe/2025/djangocon-europe-2025-dynamic-models-without-dynamic-models/)
-- [Zango: Accelerating Business App Development with an Opinionated Django Meta](https://djangotv.com/videos/djangocon-europe/2025/djangocon-europe-2025-zango-accelerating-business-app-development-with-an-opinionated-django-meta/)
+- [Closing session](https://djangotv.com/videos/djangocon-europe/2025/djangocon-europe-2025-closing-session/)
+- [Day 3 Lightning Talks](https://djangotv.com/videos/djangocon-europe/2025/djangocon-europe-2025-day-3-lightning-talks/)
+- [Django Admin at Scale: From Milliseconds to Microseconds 🚀](https://djangotv.com/videos/djangocon-europe/2025/djangocon-europe-2025-django-admin-at-scale-from-milliseconds-to-microseconds/)
+- [Europe, Django and two-factor authentication](https://djangotv.com/videos/djangocon-europe/2025/djangocon-europe-2025-europe-django-and-two-factor-authentication/)
+- [One Thousand and One Django Sites](https://djangotv.com/videos/djangocon-europe/2025/djangocon-europe-2025-one-thousand-and-one-django-sites/)
 <!--END_SECTION:videos-->
 
 ## Follow us
