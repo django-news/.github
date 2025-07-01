@@ -24,10 +24,10 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django Jobs
 
 <!--START_SECTION:jobs-->
+- [Senior Backend Python Developer](https://jobs.django-news.com/500/senior-backend-python-developer-gravitas-recruitment/)
 - [Senior/Staff Software Engineer](https://jobs.django-news.com/498/seniorstaff-software-engineer-clerq/)
 - [Full Stack Software Engineer](https://jobs.django-news.com/494/full-stack-software-engineer-switchboard/)
 - [Django Fellow](https://jobs.django-news.com/491/dsf-calls-for-applicants-for-a-django-fellow-weblog-django/)
-- [Senior Software Engineer](https://jobs.django-news.com/490/senior-software-engineer-simons-foundation/)
 <!--END_SECTION:jobs-->
 
 ## Recent Django Chat Podcast Episodes
