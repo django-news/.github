@@ -14,20 +14,20 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django News
 
 <!--START_SECTION:news-->
+- [Django News - Django's Ecosystem - Jul 11th 2025](https://django-news.com/issues/293)
 - [Django News - Django 2024 Annual Impact Report and Django 5.2.4 - Jul 4th 2025](https://django-news.com/issues/292)
 - [Django News - Fellow Deadline, Native Pooling, and Debugging in Production - Jun 27th 2025](https://django-news.com/issues/291)
 - [Django News - Python 3.14.0 beta 3 - Jun 20th 2025](https://django-news.com/issues/290)
 - [Django News - New Django Fellow Position! - Jun 13th 2025](https://django-news.com/issues/289)
-- [Django News - Django security releases issued: 5.2.2, 5.1.10, and 4.2.22 - Jun 6th 2025](https://django-news.com/issues/288)
 <!--END_SECTION:news-->
 
 ## Recent Django Jobs
 
 <!--START_SECTION:jobs-->
+- [Full Stack Engineer](https://jobs.django-news.com/508/full-stack-engineer-levpro/)
+- [Backend Engineer](https://jobs.django-news.com/505/backend-engineer/)
 - [Senior Backend Python Developer](https://jobs.django-news.com/500/senior-backend-python-developer-gravitas-recruitment/)
 - [Senior/Staff Software Engineer](https://jobs.django-news.com/498/seniorstaff-software-engineer-clerq/)
-- [Full Stack Software Engineer](https://jobs.django-news.com/494/full-stack-software-engineer-switchboard/)
-- [Senior Software Engineer](https://jobs.django-news.com/490/senior-software-engineer-simons-foundation/)
 <!--END_SECTION:jobs-->
 
 ## Recent Django Chat Podcast Episodes
