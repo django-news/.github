@@ -14,20 +14,20 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django News
 
 <!--START_SECTION:news-->
+- [Django News - A New Django Fellow - Aug 15th 2025](https://django-news.com/issues/298)
 - [Django News - Django 5.2.5 Released - Aug 8th 2025](https://django-news.com/issues/297)
 - [Django News - Django and AI - Aug 1st 2025](https://django-news.com/issues/296)
 - [Django News - DjangoCon US 2025 Talks Announced - Jul 25th 2025](https://django-news.com/issues/295)
 - [Django News - 🎂 Django Turns 20! - Jul 18th 2025](https://django-news.com/issues/294)
-- [Django News - Django's Ecosystem - Jul 11th 2025](https://django-news.com/issues/293)
 <!--END_SECTION:news-->
 
 ## Recent Django Jobs
 
 <!--START_SECTION:jobs-->
+- [Backend Python Software Engineer (Hybrid)](https://jobs.django-news.com/526/backend-python-software-engineer-hybrid-nvidia/)
 - [Senior Python Developer](https://jobs.django-news.com/522/senior-python-developer-brightwater/)
 - [Senior Backend Engineer](https://jobs.django-news.com/512/senior-backend-engineer-prowler/)
 - [Full Stack Engineer](https://jobs.django-news.com/508/full-stack-engineer-levpro/)
-- [Backend Engineer](https://jobs.django-news.com/505/backend-engineer/)
 <!--END_SECTION:jobs-->
 
 ## Recent Django Chat Podcast Episodes
