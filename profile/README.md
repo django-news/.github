@@ -24,10 +24,10 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django Jobs
 
 <!--START_SECTION:jobs-->
+- [Full Stack Developer (Contract)](https://jobs.django-news.com/535/full-stack-developer-contract-rugela-three-tablets-llc/)
+- [Django Developer](https://jobs.django-news.com/534/django-developer-the-developer-society/)
 - [Affiliate Python / Django Tech Lead](https://jobs.django-news.com/532/affiliate-python-django-tech-lead/)
 - [Backend Engineer (Python) (Consultant)](https://jobs.django-news.com/531/backend-engineer-python-consultant-syria-justice-and-accountability-centre-sjac/)
-- [Django Developer](https://jobs.django-news.com/530/django-developer-the-developer-society/)
-- [Senior Python Developer](https://jobs.django-news.com/529/senior-python-developer-basalt-health/)
 <!--END_SECTION:jobs-->
 
 ## Recent Django Chat Podcast Episodes
