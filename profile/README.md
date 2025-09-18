@@ -25,19 +25,19 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 
 <!--START_SECTION:jobs-->
 - [Full Stack Developer (Contract)](https://jobs.django-news.com/535/full-stack-developer-contract-rugela-three-tablets-llc/)
-- [Django Developer](https://jobs.django-news.com/534/django-developer-the-developer-society/)
 - [Affiliate Python / Django Tech Lead](https://jobs.django-news.com/532/affiliate-python-django-tech-lead/)
 - [Backend Engineer (Python) (Consultant)](https://jobs.django-news.com/531/backend-engineer-python-consultant-syria-justice-and-accountability-centre-sjac/)
+- [Senior Full Stack Engineer](https://jobs.django-news.com/527/senior-full-stack-engineer-lyst/)
 <!--END_SECTION:jobs-->
 
 ## Recent Django Chat Podcast Episodes
 
 <!--START_SECTION:episodes-->
+- [DjangoCon US 2025 Recap](https://djangochat.com)
 - [PHP Web Frameworks - Roman Pronskiy](https://djangochat.com)
 - [Django Deployments in 2025 - Eric Matthes](https://djangochat.com)
 - [Event Sourcing - Chris May](https://djangochat.com)
 - [DjangoCon Europe 2025 Recap](https://djangochat.com)
-- [Coding with LLMs - Frank Wiles](https://djangochat.com)
 <!--END_SECTION:episodes-->
 
 ## Recent Django Videos
