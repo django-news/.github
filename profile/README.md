@@ -43,11 +43,11 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django Videos
 
 <!--START_SECTION:videos-->
+- [Deploy Django: GitOps & Kubernetes Made Easy - Calvin Hendryx-Parker](https://djangotv.com/videos/pyohio/2025/deploy-django-gitops-kubernetes-made-easy-calvin-hendryx-parker/)
+- [Recap](https://djangotv.com/videos/djangochat/2025/djangocon-us-2025-recap/)
 - [Closing session](https://djangotv.com/videos/djangocon-europe/2025/djangocon-europe-2025-closing-session/)
 - [Day 3 Lightning Talks](https://djangotv.com/videos/djangocon-europe/2025/djangocon-europe-2025-day-3-lightning-talks/)
 - [Django Admin at Scale: From Milliseconds to Microseconds 🚀](https://djangotv.com/videos/djangocon-europe/2025/djangocon-europe-2025-django-admin-at-scale-from-milliseconds-to-microseconds/)
-- [Europe, Django and two-factor authentication](https://djangotv.com/videos/djangocon-europe/2025/djangocon-europe-2025-europe-django-and-two-factor-authentication/)
-- [One Thousand and One Django Sites](https://djangotv.com/videos/djangocon-europe/2025/djangocon-europe-2025-one-thousand-and-one-django-sites/)
 <!--END_SECTION:videos-->
 
 ## Follow us
