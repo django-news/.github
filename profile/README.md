@@ -14,11 +14,11 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django News
 
 <!--START_SECTION:news-->
+- [Django News - django.tasks exists - Sep 26th 2025](https://django-news.com/issues/304)
 - [Django News - Django 6.0 Feature Freeze - Sep 19th 2025](https://django-news.com/issues/303)
 - [Django News - Djangonaut Space 2025 Session 5 - Sep 12th 2025](https://django-news.com/issues/302)
 - [Django News - Last call for DjangoCon US 2025 tickets! - Sep 5th 2025](https://django-news.com/issues/301)
 - [Django News - Python Documentary - Aug 29th 2025](https://django-news.com/issues/300)
-- [Django News - State of Python 2025 Results - Aug 22nd 2025](https://django-news.com/issues/299)
 <!--END_SECTION:news-->
 
 ## Recent Django Jobs
