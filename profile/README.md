@@ -14,20 +14,20 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django News
 
 <!--START_SECTION:news-->
+- [Django News - Wagtail Space 2025 - Oct 3rd 2025](https://django-news.com/issues/305)
 - [Django News - django.tasks exists - Sep 26th 2025](https://django-news.com/issues/304)
 - [Django News - Django 6.0 Feature Freeze - Sep 19th 2025](https://django-news.com/issues/303)
 - [Django News - Djangonaut Space 2025 Session 5 - Sep 12th 2025](https://django-news.com/issues/302)
 - [Django News - Last call for DjangoCon US 2025 tickets! - Sep 5th 2025](https://django-news.com/issues/301)
-- [Django News - Python Documentary - Aug 29th 2025](https://django-news.com/issues/300)
 <!--END_SECTION:news-->
 
 ## Recent Django Jobs
 
 <!--START_SECTION:jobs-->
+- [Django/Python Full-stack Engineer](https://jobs.django-news.com/552/djangopython-full-stack-engineer-jointriplecom/)
 - [Senior Python/Django Engineer](https://jobs.django-news.com/551/senior-pythondjango-engineer-search-atlas/)
 - [Full Stack Developer (Contract)](https://jobs.django-news.com/535/full-stack-developer-contract-rugela-three-tablets-llc/)
 - [Affiliate Python / Django Tech Lead](https://jobs.django-news.com/532/affiliate-python-django-tech-lead/)
-- [Backend Engineer (Python) (Consultant)](https://jobs.django-news.com/531/backend-engineer-python-consultant-syria-justice-and-accountability-centre-sjac/)
 <!--END_SECTION:jobs-->
 
 ## Recent Django Chat Podcast Episodes
