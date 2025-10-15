@@ -24,10 +24,10 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django Jobs
 
 <!--START_SECTION:jobs-->
+- [Founding Backend Engineer (On-site San Francisco) — Python • AWS • LLM/RAG](https://jobs.django-news.com/558/founding-backend-engineer-on-site-san-francisco-python-aws-llmrag-purrfect-hire/)
 - [Senior Python Developer](https://jobs.django-news.com/556/senior-python-developer-basalt-health/)
 - [Senior Software Engineer (Python and Solidity)](https://jobs.django-news.com/554/senior-software-engineer-python-and-solidity-liquidfi/)
 - [Django/Python Full-stack Engineer](https://jobs.django-news.com/552/djangopython-full-stack-engineer-jointriplecom/)
-- [Senior Python/Django Engineer](https://jobs.django-news.com/551/senior-pythondjango-engineer-search-atlas/)
 <!--END_SECTION:jobs-->
 
 ## Recent Django Chat Podcast Episodes
