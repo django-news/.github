@@ -24,20 +24,20 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django Jobs
 
 <!--START_SECTION:jobs-->
+- [Software Engineer Lead](https://jobs.django-news.com/565/software-engineer-lead-center-for-academic-innovation-university-of-michigan/)
+- [Part-Time Senior Full-Stack Engineer (Python/Django) (gn)](https://jobs.django-news.com/564/part-time-senior-full-stack-engineer-pythondjango-gn-voiio/)
 - [Founding Backend Engineer (On-site San Francisco) — Python • AWS • LLM/RAG](https://jobs.django-news.com/558/founding-backend-engineer-on-site-san-francisco-python-aws-llmrag-purrfect-hire/)
 - [Senior Python Developer](https://jobs.django-news.com/556/senior-python-developer-basalt-health/)
-- [Senior Software Engineer (Python and Solidity)](https://jobs.django-news.com/554/senior-software-engineer-python-and-solidity-liquidfi/)
-- [Django/Python Full-stack Engineer](https://jobs.django-news.com/552/djangopython-full-stack-engineer-jointriplecom/)
 <!--END_SECTION:jobs-->
 
 ## Recent Django Chat Podcast Episodes
 
 <!--START_SECTION:episodes-->
+- [Django on the Med - Paolo Melchiorre](https://djangochat.com)
 - [Django Fellow - Jacob Walls](https://djangochat.com)
 - [DjangoCon US 2025 Recap](https://djangochat.com)
 - [PHP Web Frameworks - Roman Pronskiy](https://djangochat.com)
 - [Django Deployments in 2025 - Eric Matthes](https://djangochat.com)
-- [Event Sourcing - Chris May](https://djangochat.com)
 <!--END_SECTION:episodes-->
 
 ## Recent Django Videos
