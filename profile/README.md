@@ -14,11 +14,11 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django News
 
 <!--START_SECTION:news-->
+- [Django News - Django 6.0 beta 1 released - Oct 24th 2025](https://django-news.com/issues/308)
 - [Django News - 2025 Malcolm Tredinnick Memorial Prize awarded to Tim Schilling - Oct 17th 2025](https://django-news.com/issues/307)
 - [Django News - 🥧 Python 3.14 is released!  - Oct 10th 2025](https://django-news.com/issues/306)
 - [Django News - Wagtail Space 2025 - Oct 3rd 2025](https://django-news.com/issues/305)
 - [Django News - django.tasks exists - Sep 26th 2025](https://django-news.com/issues/304)
-- [Django News - Django 6.0 Feature Freeze - Sep 19th 2025](https://django-news.com/issues/303)
 <!--END_SECTION:news-->
 
 ## Recent Django Jobs
@@ -43,11 +43,11 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django Videos
 
 <!--START_SECTION:videos-->
+- [Django, what the JOIN? with Simon Charette](https://djangotv.com/videos/djangonaut-space/2025/django-what-the-join-with-simon-charette-djangonaut-space/)
 - [Deploy Django: GitOps & Kubernetes Made Easy - Calvin Hendryx-Parker](https://djangotv.com/videos/pyohio/2025/deploy-django-gitops-kubernetes-made-easy-calvin-hendryx-parker/)
 - [Recap](https://djangotv.com/videos/djangochat/2025/djangocon-us-2025-recap/)
 - [Closing session](https://djangotv.com/videos/djangocon-europe/2025/djangocon-europe-2025-closing-session/)
 - [Day 3 Lightning Talks](https://djangotv.com/videos/djangocon-europe/2025/djangocon-europe-2025-day-3-lightning-talks/)
-- [Django Admin at Scale: From Milliseconds to Microseconds 🚀](https://djangotv.com/videos/djangocon-europe/2025/djangocon-europe-2025-django-admin-at-scale-from-milliseconds-to-microseconds/)
 <!--END_SECTION:videos-->
 
 ## Follow us
