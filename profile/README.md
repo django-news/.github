@@ -14,17 +14,17 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django News
 
 <!--START_SECTION:news-->
+- [Django News - PyCharm 30% Promotion Extended! - Nov 14th 2025](https://django-news.com/issues/311)
 - [Django News - Django security releases issued: 5.2.8, 5.1.14, and 4.2.26 - Nov 7th 2025](https://django-news.com/issues/310)
 - [Django News - Django 2025 Survey Results and Django's annual fundraiser - Oct 31st 2025](https://django-news.com/issues/309)
 - [Django News - Django 6.0 beta 1 released - Oct 24th 2025](https://django-news.com/issues/308)
 - [Django News - 2025 Malcolm Tredinnick Memorial Prize awarded to Tim Schilling - Oct 17th 2025](https://django-news.com/issues/307)
-- [Django News - 🥧 Python 3.14 is released!  - Oct 10th 2025](https://django-news.com/issues/306)
 <!--END_SECTION:news-->
 
 ## Recent Django Jobs
 
 <!--START_SECTION:jobs-->
-- [Senior Python Developer](https://jobs.django-news.com/584/senior-python-developer-basalt-health/)
+- [Job Application for Senior Application Security Engineer](https://jobs.django-news.com/587/job-application-for-senior-application-security-engineer-hybrid-us-at-energy-solutions-usa/)
 - [Senior Back-End Developer](https://jobs.django-news.com/573/senior-back-end-developer-showcare/)
 - [Software Engineer Lead](https://jobs.django-news.com/565/software-engineer-lead-center-for-academic-innovation-university-of-michigan/)
 - [Part-Time Senior Full-Stack Engineer (Python/Django) (gn)](https://jobs.django-news.com/564/part-time-senior-full-stack-engineer-pythondjango-gn-voiio/)
