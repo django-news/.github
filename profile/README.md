@@ -14,11 +14,11 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django News
 
 <!--START_SECTION:news-->
+- [Django News - Django 6.0 release candidate 1 released - Nov 21st 2025](https://django-news.com/issues/312)
 - [Django News - PyCharm 30% Promotion Extended! - Nov 14th 2025](https://django-news.com/issues/311)
 - [Django News - Django security releases issued: 5.2.8, 5.1.14, and 4.2.26 - Nov 7th 2025](https://django-news.com/issues/310)
 - [Django News - Django 2025 Survey Results and Django's annual fundraiser - Oct 31st 2025](https://django-news.com/issues/309)
 - [Django News - Django 6.0 beta 1 released - Oct 24th 2025](https://django-news.com/issues/308)
-- [Django News - 2025 Malcolm Tredinnick Memorial Prize awarded to Tim Schilling - Oct 17th 2025](https://django-news.com/issues/307)
 <!--END_SECTION:news-->
 
 ## Recent Django Jobs
