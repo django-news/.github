@@ -43,11 +43,11 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django Videos
 
 <!--START_SECTION:videos-->
-- [Keynote: Lateral Thinking with Weathered Technology: How The Nintendo Philosophy Applies...](https://djangotv.com/videos/djangocon-us/2025/keynote-lateral-thinking-with-weathered-technology-how-the-nintendo-philosophy-applies/)
-- [Winemaking with Mutable Event Sourcing in Django with Chris Muthig](https://djangotv.com/videos/djangocon-us/2025/winemaking-with-mutable-event-sourcing-in-django-with-chris-muthig/)
-- [Reverse engineering the QR code generator and URL forwarder service with Mariatta](https://djangotv.com/videos/djangocon-us/2025/reverse-engineering-the-qr-code-generator-and-url-forwarder-service-with-mariatta/)
-- [Entering the World of CMS with Wagtail with Michael Riley](https://djangotv.com/videos/djangocon-us/2025/entering-the-world-of-cms-with-wagtail-with-michael-riley/)
-- [High Performance Django at Ten: Old Tricks & New Picks with Peter Baumgartner](https://djangotv.com/videos/djangocon-us/2025/high-performance-django-at-ten-old-tricks-new-picks-with-peter-baumgartner/)
+- [Day 2 Welcome Remarks](https://djangotv.com/videos/wagtail-space/2025/wagtail-space-2025-day-2-welcome-remarks/)
+- [AI in Wagtail: responsible innovation for content editors](https://djangotv.com/videos/wagtail-space/2025/ai-in-wagtail-responsible-innovation-for-content-editors/)
+- [Redesigning and refactoring Wagtail components](https://djangotv.com/videos/wagtail-space/2025/redesigning-and-refactoring-wagtail-components/)
+- [Code that creates content](https://djangotv.com/videos/wagtail-space/2025/code-that-creates-content/)
+- [Day 1 Closing remarks](https://djangotv.com/videos/wagtail-space/2025/wagtail-space-2025-day-1-closing-remarks/)
 <!--END_SECTION:videos-->
 
 ## Follow us
