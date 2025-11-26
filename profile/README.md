@@ -33,11 +33,11 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django Chat Podcast Episodes
 
 <!--START_SECTION:episodes-->
+- [AI in the Real World - Marlene Mhangami & Tim Allen](https://djangochat.com)
 - [Django 20 Years Later - Adrian Holovaty](https://djangochat.com)
 - [Django Survey 2025 - Jeff Triplett](https://djangochat.com)
 - [Django on the Med - Paolo Melchiorre](https://djangochat.com)
 - [Django Fellow - Jacob Walls](https://djangochat.com)
-- [DjangoCon US 2025 Recap](https://djangochat.com)
 <!--END_SECTION:episodes-->
 
 ## Recent Django Videos
