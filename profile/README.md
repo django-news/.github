@@ -5,8 +5,8 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Projects
 
 - :newspaper: [Django News Newsletter](https://django-news.com)
-- :briefcase: [Django News Jobs](https://jobs.django-news.com)
-- :tv: [Django TV](https://djangotv.com)
+- :briefcase: [Django News Jobs](https://jobs.django-news.com) | [Roadmap](https://github.com/django-news/django-news-jobs-roadmap/)
+- :tv: [Django TV](https://djangotv.com) | [Roadmap](https://github.com/django-news/djangotv-roadmap/)
 - :books: [Django Book](https://djangobook.com)
 - :dark_sunglasses: [Awesome Django](https://awesomedjango.org)
 - :ring: [The Great Django Webring](https://djangowebring.com)
