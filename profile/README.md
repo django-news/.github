@@ -53,5 +53,6 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Follow us
 
 - [Mastodon](https://mastodon.social/@djangonews)
+- [Bluesky](https://bsky.app/profile/djangonews.bsky.social)
 - [𝕏](https://x.com/djangonewsbot)
 - [GitHub](https://github.com/django-news)
