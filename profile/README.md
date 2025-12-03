@@ -24,10 +24,10 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django Jobs
 
 <!--START_SECTION:jobs-->
+- [Staff Software Engineer](https://jobs.django-news.com/590/staff-software-engineer-bluebird-kids-health/)
 - [Job Application for Senior Application Security Engineer](https://jobs.django-news.com/587/job-application-for-senior-application-security-engineer-hybrid-us-at-energy-solutions-usa/)
 - [Senior Back-End Developer](https://jobs.django-news.com/573/senior-back-end-developer-showcare/)
 - [Software Engineer Lead](https://jobs.django-news.com/565/software-engineer-lead-center-for-academic-innovation-university-of-michigan/)
-- [Part-Time Senior Full-Stack Engineer (Python/Django) (gn)](https://jobs.django-news.com/564/part-time-senior-full-stack-engineer-pythondjango-gn-voiio/)
 <!--END_SECTION:jobs-->
 
 ## Recent Django Chat Podcast Episodes
