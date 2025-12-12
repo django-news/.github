@@ -13,11 +13,11 @@ export JUST_UNSTABLE := "true"
         --readme-path=profile/README.md \
         https://django-news.com/issues.rss
 
-    # Fetch latest Django News Jobs entries
+    # Fetch latest Django Job Board entries
     uv run fetch-rss.py \
         --section=jobs \
         --readme-path=profile/README.md \
-        https://jobs.django-news.com/feed/
+        https://djangojobboard.com/feed/
 
     # Fetch latest Django TV entries
     uv run fetch-rss.py \

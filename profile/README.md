@@ -5,7 +5,7 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Projects
 
 - :newspaper: [Django News Newsletter](https://django-news.com)
-- :briefcase: [Django News Jobs](https://jobs.django-news.com) | [Roadmap](https://github.com/django-news/django-news-jobs-roadmap/)
+- :briefcase: [Django Job Board](https://djangojobboard.com) | [Roadmap](https://github.com/django-news/django-news-jobs-roadmap/)
 - :tv: [Django TV](https://djangotv.com) | [Roadmap](https://github.com/django-news/djangotv-roadmap/)
 - :books: [Django Book](https://djangobook.com)
 - :dark_sunglasses: [Awesome Django](https://awesomedjango.org) | [Repo](https://github.com/wsvincent/awesome-django)
@@ -25,10 +25,10 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django Jobs
 
 <!--START_SECTION:jobs-->
-- [Python/Django Senior Application Security Engineer](https://jobs.django-news.com/594/job-application-for-pythondjango-senior-application-security-engineer-hybrid-us-at-energy-solutions-usa/)
-- [Python / Django Developer](https://jobs.django-news.com/593/python-django-developer-client-of-foxley-talent/)
-- [Staff Software Engineer](https://jobs.django-news.com/590/staff-software-engineer-bluebird-kids-health/)
-- [Software Engineer Lead](https://jobs.django-news.com/565/software-engineer-lead-center-for-academic-innovation-university-of-michigan/)
+- [Python/Django Senior Application Security Engineer](https://djangojobboard.com/594/job-application-for-pythondjango-senior-application-security-engineer-hybrid-us-at-energy-solutions-usa/)
+- [Python / Django Developer](https://djangojobboard.com/593/python-django-developer-client-of-foxley-talent/)
+- [Staff Software Engineer](https://djangojobboard.com/590/staff-software-engineer-bluebird-kids-health/)
+- [Software Engineer Lead](https://djangojobboard.com/565/software-engineer-lead-center-for-academic-innovation-university-of-michigan/)
 <!--END_SECTION:jobs-->
 
 ## Recent Django Chat Podcast Episodes
