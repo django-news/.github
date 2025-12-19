@@ -15,20 +15,20 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django News
 
 <!--START_SECTION:news-->
+- [Django News - New Django Software Foundation Board and Year-End Fundraiser - Dec 19th 2025](https://django-news.com/issues/316)
 - [Django News - DjangoCon Europe 2026 CFPs - Dec 12th 2025](https://django-news.com/issues/315)
 - [Django News - Django 6.0 released! - Dec 5th 2025](https://django-news.com/issues/314)
 - [Django News - Sales and AI in the Real World - Nov 28th 2025](https://django-news.com/issues/313)
 - [Django News - Django 6.0 release candidate 1 released - Nov 21st 2025](https://django-news.com/issues/312)
-- [Django News - PyCharm 30% Promotion Extended! - Nov 14th 2025](https://django-news.com/issues/311)
 <!--END_SECTION:news-->
 
 ## Recent Django Jobs
 
 <!--START_SECTION:jobs-->
+- [Founding Full-Stack Senior Engineer (UK ONLY) - Fully Remote](https://djangojobboard.com/596/founding-full-stack-senior-engineer-uk-only-fully-remote-mydatavalue/)
 - [Python/Django Senior Application Security Engineer](https://djangojobboard.com/594/job-application-for-pythondjango-senior-application-security-engineer-hybrid-us-at-energy-solutions-usa/)
 - [Python / Django Developer](https://djangojobboard.com/593/python-django-developer-client-of-foxley-talent/)
 - [Staff Software Engineer](https://djangojobboard.com/590/staff-software-engineer-bluebird-kids-health/)
-- [Software Engineer Lead](https://djangojobboard.com/565/software-engineer-lead-center-for-academic-innovation-university-of-michigan/)
 <!--END_SECTION:jobs-->
 
 ## Recent Django Chat Podcast Episodes
