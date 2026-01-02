@@ -15,11 +15,11 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django News
 
 <!--START_SECTION:news-->
+- [Django News - 🎮 Django Is Now a Video Game Framework - Jan 2nd 2026](https://django-news.com/issues/318)
 - [Django News - Happy Holidays and 95% there! - Dec 26th 2025](https://django-news.com/issues/317)
 - [Django News - New Django Software Foundation Board and Year-End Fundraiser - Dec 19th 2025](https://django-news.com/issues/316)
 - [Django News - DjangoCon Europe 2026 CFPs - Dec 12th 2025](https://django-news.com/issues/315)
 - [Django News - Django 6.0 released! - Dec 5th 2025](https://django-news.com/issues/314)
-- [Django News - Sales and AI in the Real World - Nov 28th 2025](https://django-news.com/issues/313)
 <!--END_SECTION:news-->
 
 ## Recent Django Jobs
