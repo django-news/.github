@@ -25,7 +25,10 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django Jobs
 
 <!--START_SECTION:jobs-->
-
+- [Senior Python Developer](https://djangojobboard.com/600/senior-python-developer-cial-dun-bradstreet/)
+- [Software Engineer](https://djangojobboard.com/597/software-engineer-internet-archive/)
+- [Founding Full-Stack Senior Engineer (UK ONLY) - Fully Remote](https://djangojobboard.com/596/founding-full-stack-senior-engineer-uk-only-fully-remote-mydatavalue/)
+- [Python/Django Senior Application Security Engineer](https://djangojobboard.com/594/job-application-for-pythondjango-senior-application-security-engineer-hybrid-us-at-energy-solutions-usa/)
 <!--END_SECTION:jobs-->
 
 ## Recent Django Chat Podcast Episodes
@@ -41,7 +44,11 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django Videos
 
 <!--START_SECTION:videos-->
-
+- [Day 2 Welcome Remarks](https://djangotv.com/videos/wagtail-space/2025/wagtail-space-2025-day-2-welcome-remarks/)
+- [AI in Wagtail: responsible innovation for content editors](https://djangotv.com/videos/wagtail-space/2025/ai-in-wagtail-responsible-innovation-for-content-editors/)
+- [Implement the French Government Design System in Wagtail](https://djangotv.com/videos/wagtail-space/2025/implement-the-french-government-design-system-in-wagtail/)
+- [Day 1 Closing remarks](https://djangotv.com/videos/wagtail-space/2025/wagtail-space-2025-day-1-closing-remarks/)
+- [State of Wagtail 2025](https://djangotv.com/videos/wagtail-space/2025/state-of-wagtail-2025/)
 <!--END_SECTION:videos-->
 
 ## Follow us
