@@ -15,30 +15,30 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django News
 
 <!--START_SECTION:news-->
+- [Django News - Django Packages Refresh - Jan 16th 2026](https://django-news.com/issues/320)
 - [Django News - Django Bugfixes, Community Wins, and What’s NextIssue 319 - Jan 9th 2026](https://django-news.com/issues/319)
 - [Django News - 🎮 Django Is Now a Video Game Framework - Jan 2nd 2026](https://django-news.com/issues/318)
 - [Django News - Happy Holidays and 95% there! - Dec 26th 2025](https://django-news.com/issues/317)
 - [Django News - New Django Software Foundation Board and Year-End Fundraiser - Dec 19th 2025](https://django-news.com/issues/316)
-- [Django News - DjangoCon Europe 2026 CFPs - Dec 12th 2025](https://django-news.com/issues/315)
 <!--END_SECTION:news-->
 
 ## Recent Django Jobs
 
 <!--START_SECTION:jobs-->
+- [Senior Django Developer](https://djangojobboard.com/608/senior-django-developer-skycatchfire/)
 - [Senior Python Developer](https://djangojobboard.com/600/senior-python-developer-cial-dun-bradstreet/)
 - [Software Engineer](https://djangojobboard.com/597/software-engineer-internet-archive/)
 - [Founding Full-Stack Senior Engineer (UK ONLY) - Fully Remote](https://djangojobboard.com/596/founding-full-stack-senior-engineer-uk-only-fully-remote-mydatavalue/)
-- [Python/Django Senior Application Security Engineer](https://djangojobboard.com/594/job-application-for-pythondjango-senior-application-security-engineer-hybrid-us-at-energy-solutions-usa/)
 <!--END_SECTION:jobs-->
 
 ## Recent Django Chat Podcast Episodes
 
 <!--START_SECTION:episodes-->
+- [Building a Django API Framework Faster than FastAPI - Farhan Ali Raza](https://djangochat.com)
 - [From Bootcamp to Project Manager - Keanya Phelps](https://djangochat.com)
 - [Django 6.0 - Natalia Bidart](https://djangochat.com)
 - [AI in the Real World - Marlene Mhangami & Tim Allen](https://djangochat.com)
 - [Django 20 Years Later - Adrian Holovaty](https://djangochat.com)
-- [Django Survey 2025 - Jeff Triplett](https://djangochat.com)
 <!--END_SECTION:episodes-->
 
 ## Recent Django Videos
