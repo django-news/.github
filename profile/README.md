@@ -34,11 +34,11 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django Chat Podcast Episodes
 
 <!--START_SECTION:episodes-->
+- [Inverting the Testing Pyramid - Brian Okken](https://djangochat.com)
 - [Building a Django API Framework Faster than FastAPI - Farhan Ali Raza](https://djangochat.com)
 - [From Bootcamp to Project Manager - Keanya Phelps](https://djangochat.com)
 - [Django 6.0 - Natalia Bidart](https://djangochat.com)
 - [AI in the Real World - Marlene Mhangami & Tim Allen](https://djangochat.com)
-- [Django 20 Years Later - Adrian Holovaty](https://djangochat.com)
 <!--END_SECTION:episodes-->
 
 ## Recent Django Videos
