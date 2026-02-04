@@ -25,10 +25,10 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django Jobs
 
 <!--START_SECTION:jobs-->
+- [Python Developer REST APIs - Immediate Start](https://djangojobboard.com/618/python-developer-rest-apis-immediate-start-worx-ai/)
 - [Backend Software Developer](https://djangojobboard.com/617/backend-software-developer-chartwell-resource-group-ltd/)
 - [Senior Django Developer](https://djangojobboard.com/608/senior-django-developer-skycatchfire/)
 - [Senior Python Developer](https://djangojobboard.com/600/senior-python-developer-cial-dun-bradstreet/)
-- [Software Engineer](https://djangojobboard.com/597/software-engineer-internet-archive/)
 <!--END_SECTION:jobs-->
 
 ## Recent Django Chat Podcast Episodes
@@ -46,9 +46,9 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 <!--START_SECTION:videos-->
 - [Day 2 Welcome Remarks](https://djangotv.com/videos/wagtail-space/2025/wagtail-space-2025-day-2-welcome-remarks/)
 - [AI in Wagtail: responsible innovation for content editors](https://djangotv.com/videos/wagtail-space/2025/ai-in-wagtail-responsible-innovation-for-content-editors/)
-- [Day 1 Closing remarks](https://djangotv.com/videos/wagtail-space/2025/wagtail-space-2025-day-1-closing-remarks/)
-- [State of Wagtail 2025](https://djangotv.com/videos/wagtail-space/2025/state-of-wagtail-2025/)
+- [Wagtail Space 2025 Day 1 Welcome Remarks](https://djangotv.com/videos/wagtail-space/2025/wagtail-space-2025-day-1-welcome-remarks/)
 - [Building a little YouTube on Wagtail](https://djangotv.com/videos/wagtail-space/2025/building-a-little-youtube-on-wagtail/)
+- [State of Wagtail 2025](https://djangotv.com/videos/wagtail-space/2025/state-of-wagtail-2025/)
 <!--END_SECTION:videos-->
 
 ## Follow us
