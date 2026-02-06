@@ -15,11 +15,11 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django News
 
 <!--START_SECTION:news-->
+- [Django News - Django security releases issued: 6.0.2, 5.2.11, and 4.2.28 - Feb 6th 2026](https://django-news.com/issues/323)
 - [Django News - Python Developers Survey 2026 - Jan 30th 2026](https://django-news.com/issues/322)
 - [Django News - Djangonaut Space Session 6 Applications Open! - Jan 23rd 2026](https://django-news.com/issues/321)
 - [Django News - Django Packages Refresh - Jan 16th 2026](https://django-news.com/issues/320)
 - [Django News - Django Bugfixes, Community Wins, and What’s NextIssue 319 - Jan 9th 2026](https://django-news.com/issues/319)
-- [Django News - 🎮 Django Is Now a Video Game Framework - Jan 2nd 2026](https://django-news.com/issues/318)
 <!--END_SECTION:news-->
 
 ## Recent Django Jobs
@@ -46,9 +46,9 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 <!--START_SECTION:videos-->
 - [Day 2 Welcome Remarks](https://djangotv.com/videos/wagtail-space/2025/wagtail-space-2025-day-2-welcome-remarks/)
 - [AI in Wagtail: responsible innovation for content editors](https://djangotv.com/videos/wagtail-space/2025/ai-in-wagtail-responsible-innovation-for-content-editors/)
-- [Wagtail Space 2025 Day 1 Welcome Remarks](https://djangotv.com/videos/wagtail-space/2025/wagtail-space-2025-day-1-welcome-remarks/)
-- [Day 1 Closing remarks](https://djangotv.com/videos/wagtail-space/2025/wagtail-space-2025-day-1-closing-remarks/)
 - [Building a little YouTube on Wagtail](https://djangotv.com/videos/wagtail-space/2025/building-a-little-youtube-on-wagtail/)
+- [State of Wagtail 2025](https://djangotv.com/videos/wagtail-space/2025/state-of-wagtail-2025/)
+- [Redesigning and refactoring Wagtail components](https://djangotv.com/videos/wagtail-space/2025/redesigning-and-refactoring-wagtail-components/)
 <!--END_SECTION:videos-->
 
 ## Follow us
