@@ -46,9 +46,9 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 <!--START_SECTION:videos-->
 - [Day 2 Welcome Remarks](https://djangotv.com/videos/wagtail-space/2025/wagtail-space-2025-day-2-welcome-remarks/)
 - [AI in Wagtail: responsible innovation for content editors](https://djangotv.com/videos/wagtail-space/2025/ai-in-wagtail-responsible-innovation-for-content-editors/)
-- [State of Wagtail 2025](https://djangotv.com/videos/wagtail-space/2025/state-of-wagtail-2025/)
+- [Code that creates content](https://djangotv.com/videos/wagtail-space/2025/code-that-creates-content/)
+- [Day 1 Closing remarks](https://djangotv.com/videos/wagtail-space/2025/wagtail-space-2025-day-1-closing-remarks/)
 - [Building a little YouTube on Wagtail](https://djangotv.com/videos/wagtail-space/2025/building-a-little-youtube-on-wagtail/)
-- [Wagtail Space 2025 Day 1 Welcome Remarks](https://djangotv.com/videos/wagtail-space/2025/wagtail-space-2025-day-1-welcome-remarks/)
 <!--END_SECTION:videos-->
 
 ## Follow us
