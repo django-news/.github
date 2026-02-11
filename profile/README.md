@@ -25,20 +25,20 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django Jobs
 
 <!--START_SECTION:jobs-->
+- [Lead Backend Engineer](https://djangojobboard.com/622/lead-backend-engineer-turntable/)
 - [Python Developer REST APIs - Immediate Start](https://djangojobboard.com/618/python-developer-rest-apis-immediate-start-worx-ai/)
 - [Backend Software Developer](https://djangojobboard.com/617/backend-software-developer-chartwell-resource-group-ltd/)
 - [Senior Django Developer](https://djangojobboard.com/608/senior-django-developer-skycatchfire/)
-- [Senior Python Developer](https://djangojobboard.com/600/senior-python-developer-cial-dun-bradstreet/)
 <!--END_SECTION:jobs-->
 
 ## Recent Django Chat Podcast Episodes
 
 <!--START_SECTION:episodes-->
+- [Improving Django - Adam Hill](https://djangochat.com)
 - [Inverting the Testing Pyramid - Brian Okken](https://djangochat.com)
 - [Building a Django API Framework Faster than FastAPI - Farhan Ali Raza](https://djangochat.com)
 - [From Bootcamp to Project Manager - Keanya Phelps](https://djangochat.com)
 - [Django 6.0 - Natalia Bidart](https://djangochat.com)
-- [AI in the Real World - Marlene Mhangami & Tim Allen](https://djangochat.com)
 <!--END_SECTION:episodes-->
 
 ## Recent Django Videos
@@ -48,7 +48,7 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 - [AI in Wagtail: responsible innovation for content editors](https://djangotv.com/videos/wagtail-space/2025/ai-in-wagtail-responsible-innovation-for-content-editors/)
 - [Code that creates content](https://djangotv.com/videos/wagtail-space/2025/code-that-creates-content/)
 - [Day 1 Closing remarks](https://djangotv.com/videos/wagtail-space/2025/wagtail-space-2025-day-1-closing-remarks/)
-- [Building a little YouTube on Wagtail](https://djangotv.com/videos/wagtail-space/2025/building-a-little-youtube-on-wagtail/)
+- [Wagtail Nest: Maintaining Community Packages Together](https://djangotv.com/videos/wagtail-space/2025/wagtail-nest-maintaining-community-packages-together/)
 <!--END_SECTION:videos-->
 
 ## Follow us
