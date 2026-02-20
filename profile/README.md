@@ -15,20 +15,20 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django News
 
 <!--START_SECTION:news-->
+- [Django News - Contributor Covenant, Security Team Expansion, and Django 6.1 Updates - Feb 20th 2026](https://django-news.com/issues/325)
 - [Django News - The Post-Heroku Django World - Feb 13th 2026](https://django-news.com/issues/324)
 - [Django News - Django security releases issued: 6.0.2, 5.2.11, and 4.2.28 - Feb 6th 2026](https://django-news.com/issues/323)
 - [Django News - Python Developers Survey 2026 - Jan 30th 2026](https://django-news.com/issues/322)
 - [Django News - Djangonaut Space Session 6 Applications Open! - Jan 23rd 2026](https://django-news.com/issues/321)
-- [Django News - Django Packages Refresh - Jan 16th 2026](https://django-news.com/issues/320)
 <!--END_SECTION:news-->
 
 ## Recent Django Jobs
 
 <!--START_SECTION:jobs-->
+- [Infrastructure Engineer](https://djangojobboard.com/630/infrastructure-engineer-python-software-foundation/)
+- [Software Engineer (Python / Django)](https://djangojobboard.com/629/software-engineer-python-django-mirvie/)
 - [Lead Backend Engineer](https://djangojobboard.com/622/lead-backend-engineer-turntable/)
 - [Backend Software Developer](https://djangojobboard.com/617/backend-software-developer-chartwell-resource-group-ltd/)
-- [Senior Django Developer](https://djangojobboard.com/608/senior-django-developer-skycatchfire/)
-- [Senior Python Developer](https://djangojobboard.com/600/senior-python-developer-cial-dun-bradstreet/)
 <!--END_SECTION:jobs-->
 
 ## Recent Django Chat Podcast Episodes
@@ -47,7 +47,7 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 - [Day 2 Welcome Remarks](https://djangotv.com/videos/wagtail-space/2025/wagtail-space-2025-day-2-welcome-remarks/)
 - [AI in Wagtail: responsible innovation for content editors](https://djangotv.com/videos/wagtail-space/2025/ai-in-wagtail-responsible-innovation-for-content-editors/)
 - [Day 1 Closing remarks](https://djangotv.com/videos/wagtail-space/2025/wagtail-space-2025-day-1-closing-remarks/)
-- [State of Wagtail 2025](https://djangotv.com/videos/wagtail-space/2025/state-of-wagtail-2025/)
+- [Lightning Talks Day 2](https://djangotv.com/videos/wagtail-space/2025/wagtail-space-2025-lightning-talks-day-2/)
 - [Code that creates content](https://djangotv.com/videos/wagtail-space/2025/code-that-creates-content/)
 <!--END_SECTION:videos-->
 
