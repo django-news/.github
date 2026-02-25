@@ -26,19 +26,19 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 
 <!--START_SECTION:jobs-->
 - [Infrastructure Engineer](https://djangojobboard.com/630/infrastructure-engineer-python-software-foundation/)
-- [Software Engineer (Python / Django)](https://djangojobboard.com/629/software-engineer-python-django-mirvie/)
 - [Lead Backend Engineer](https://djangojobboard.com/622/lead-backend-engineer-turntable/)
 - [Backend Software Developer](https://djangojobboard.com/617/backend-software-developer-chartwell-resource-group-ltd/)
+- [Senior Django Developer](https://djangojobboard.com/608/senior-django-developer-skycatchfire/)
 <!--END_SECTION:jobs-->
 
 ## Recent Django Chat Podcast Episodes
 
 <!--START_SECTION:episodes-->
+- [Freelancing & Community - Andrew Miller](https://djangochat.com)
 - [Improving Django - Adam Hill](https://djangochat.com)
 - [Inverting the Testing Pyramid - Brian Okken](https://djangochat.com)
 - [Building a Django API Framework Faster than FastAPI - Farhan Ali Raza](https://djangochat.com)
 - [From Bootcamp to Project Manager - Keanya Phelps](https://djangochat.com)
-- [Django 6.0 - Natalia Bidart](https://djangochat.com)
 <!--END_SECTION:episodes-->
 
 ## Recent Django Videos
@@ -46,9 +46,9 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 <!--START_SECTION:videos-->
 - [Day 2 Welcome Remarks](https://djangotv.com/videos/wagtail-space/2025/wagtail-space-2025-day-2-welcome-remarks/)
 - [AI in Wagtail: responsible innovation for content editors](https://djangotv.com/videos/wagtail-space/2025/ai-in-wagtail-responsible-innovation-for-content-editors/)
-- [State of Wagtail 2025](https://djangotv.com/videos/wagtail-space/2025/state-of-wagtail-2025/)
+- [Day 1 Closing remarks](https://djangotv.com/videos/wagtail-space/2025/wagtail-space-2025-day-1-closing-remarks/)
 - [Implement the French Government Design System in Wagtail](https://djangotv.com/videos/wagtail-space/2025/implement-the-french-government-design-system-in-wagtail/)
-- [Wagtail Nest: Maintaining Community Packages Together](https://djangotv.com/videos/wagtail-space/2025/wagtail-nest-maintaining-community-packages-together/)
+- [Code that creates content](https://djangotv.com/videos/wagtail-space/2025/code-that-creates-content/)
 <!--END_SECTION:videos-->
 
 ## Follow us
