@@ -25,30 +25,30 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django Jobs
 
 <!--START_SECTION:jobs-->
+- [Solutions Architect - Python (Client-facing)](https://djangojobboard.com/1303/solutions-architect-python-client-facing-jetbrains/)
 - [Infrastructure Engineer](https://djangojobboard.com/630/infrastructure-engineer-python-software-foundation/)
 - [Lead Backend Engineer](https://djangojobboard.com/622/lead-backend-engineer-turntable/)
 - [Backend Software Developer](https://djangojobboard.com/617/backend-software-developer-chartwell-resource-group-ltd/)
-- [Senior Django Developer](https://djangojobboard.com/608/senior-django-developer-skycatchfire/)
 <!--END_SECTION:jobs-->
 
 ## Recent Django Chat Podcast Episodes
 
 <!--START_SECTION:episodes-->
+- [From Kenya to London with Django - Velda Kiara](https://djangochat.com)
 - [Freelancing & Community - Andrew Miller](https://djangochat.com)
 - [Improving Django - Adam Hill](https://djangochat.com)
 - [Inverting the Testing Pyramid - Brian Okken](https://djangochat.com)
 - [Building a Django API Framework Faster than FastAPI - Farhan Ali Raza](https://djangochat.com)
-- [From Bootcamp to Project Manager - Keanya Phelps](https://djangochat.com)
 <!--END_SECTION:episodes-->
 
 ## Recent Django Videos
 
 <!--START_SECTION:videos-->
+- [From Kenya to London - Velda Kiara](https://djangotv.com/videos/djangochat/2026/from-kenya-to-london-velda-kiara/)
 - [Day 2 Welcome Remarks](https://djangotv.com/videos/wagtail-space/2025/wagtail-space-2025-day-2-welcome-remarks/)
 - [AI in Wagtail: responsible innovation for content editors](https://djangotv.com/videos/wagtail-space/2025/ai-in-wagtail-responsible-innovation-for-content-editors/)
-- [Wagtail Nest: Maintaining Community Packages Together](https://djangotv.com/videos/wagtail-space/2025/wagtail-nest-maintaining-community-packages-together/)
+- [Implement the French Government Design System in Wagtail](https://djangotv.com/videos/wagtail-space/2025/implement-the-french-government-design-system-in-wagtail/)
 - [Wagtail Space 2025 Day 1 Welcome Remarks](https://djangotv.com/videos/wagtail-space/2025/wagtail-space-2025-day-1-welcome-remarks/)
-- [Code that creates content](https://djangotv.com/videos/wagtail-space/2025/code-that-creates-content/)
 <!--END_SECTION:videos-->
 
 ## Follow us
