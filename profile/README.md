@@ -34,11 +34,11 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django Chat Podcast Episodes
 
 <!--START_SECTION:episodes-->
+- [PyCon US 2026 - Elaine Wong & Jon Banafato](https://djangochat.com)
 - [From Kenya to London with Django - Velda Kiara](https://djangochat.com)
 - [Freelancing & Community - Andrew Miller](https://djangochat.com)
 - [Improving Django - Adam Hill](https://djangochat.com)
 - [Inverting the Testing Pyramid - Brian Okken](https://djangochat.com)
-- [Building a Django API Framework Faster than FastAPI - Farhan Ali Raza](https://djangochat.com)
 <!--END_SECTION:episodes-->
 
 ## Recent Django Videos
@@ -48,7 +48,7 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 - [Day 2 Welcome Remarks](https://djangotv.com/videos/wagtail-space/2025/wagtail-space-2025-day-2-welcome-remarks/)
 - [AI in Wagtail: responsible innovation for content editors](https://djangotv.com/videos/wagtail-space/2025/ai-in-wagtail-responsible-innovation-for-content-editors/)
 - [Implement the French Government Design System in Wagtail](https://djangotv.com/videos/wagtail-space/2025/implement-the-french-government-design-system-in-wagtail/)
-- [Building a little YouTube on Wagtail](https://djangotv.com/videos/wagtail-space/2025/building-a-little-youtube-on-wagtail/)
+- [Wagtail Space 2025 Day 1 Welcome Remarks](https://djangotv.com/videos/wagtail-space/2025/wagtail-space-2025-day-1-welcome-remarks/)
 <!--END_SECTION:videos-->
 
 ## Follow us
