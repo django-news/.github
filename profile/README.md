@@ -15,11 +15,11 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django News
 
 <!--START_SECTION:news-->
+- [Django News - Sunsetting Jazzband - Mar 20th 2026](https://django-news.com/issues/329)
 - [Django News - 21 PRs in One Week to Django Core! - Mar 13th 2026](https://django-news.com/issues/328)
 - [Django News - Django Security Fixes, Python Releases, and New Tools - Mar 6th 2026](https://django-news.com/issues/327)
 - [Django News - Google Summer of Code 2026 with Django - Feb 27th 2026](https://django-news.com/issues/326)
 - [Django News - Contributor Covenant, Security Team Expansion, and Django 6.1 Updates - Feb 20th 2026](https://django-news.com/issues/325)
-- [Django News - The Post-Heroku Django World - Feb 13th 2026](https://django-news.com/issues/324)
 <!--END_SECTION:news-->
 
 ## Recent Django Jobs
@@ -44,11 +44,11 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django Videos
 
 <!--START_SECTION:videos-->
+- [PyCon US 2026 - Elaine Wong & Jon Banafato](https://djangotv.com/videos/djangochat/2026/pycon-us-2026-elaine-wong-jon-banafato/)
 - [From Kenya to London - Velda Kiara](https://djangotv.com/videos/djangochat/2026/from-kenya-to-london-velda-kiara/)
 - [Day 2 Welcome Remarks](https://djangotv.com/videos/wagtail-space/2025/wagtail-space-2025-day-2-welcome-remarks/)
 - [AI in Wagtail: responsible innovation for content editors](https://djangotv.com/videos/wagtail-space/2025/ai-in-wagtail-responsible-innovation-for-content-editors/)
-- [Implement the French Government Design System in Wagtail](https://djangotv.com/videos/wagtail-space/2025/implement-the-french-government-design-system-in-wagtail/)
-- [Wagtail Space 2025 Day 1 Welcome Remarks](https://djangotv.com/videos/wagtail-space/2025/wagtail-space-2025-day-1-welcome-remarks/)
+- [Code that creates content](https://djangotv.com/videos/wagtail-space/2025/code-that-creates-content/)
 <!--END_SECTION:videos-->
 
 ## Follow us
