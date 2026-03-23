@@ -48,7 +48,7 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 - [From Kenya to London - Velda Kiara](https://djangotv.com/videos/djangochat/2026/from-kenya-to-london-velda-kiara/)
 - [Day 2 Welcome Remarks](https://djangotv.com/videos/wagtail-space/2025/wagtail-space-2025-day-2-welcome-remarks/)
 - [AI in Wagtail: responsible innovation for content editors](https://djangotv.com/videos/wagtail-space/2025/ai-in-wagtail-responsible-innovation-for-content-editors/)
-- [Code that creates content](https://djangotv.com/videos/wagtail-space/2025/code-that-creates-content/)
+- [State of Wagtail 2025](https://djangotv.com/videos/wagtail-space/2025/state-of-wagtail-2025/)
 <!--END_SECTION:videos-->
 
 ## Follow us
