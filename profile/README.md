@@ -15,11 +15,11 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django News
 
 <!--START_SECTION:news-->
+- [Django News - Balancing the AI Flood in Django - Mar 27th 2026](https://django-news.com/issues/330)
 - [Django News - Sunsetting Jazzband - Mar 20th 2026](https://django-news.com/issues/329)
 - [Django News - 21 PRs in One Week to Django Core! - Mar 13th 2026](https://django-news.com/issues/328)
 - [Django News - Django Security Fixes, Python Releases, and New Tools - Mar 6th 2026](https://django-news.com/issues/327)
 - [Django News - Google Summer of Code 2026 with Django - Feb 27th 2026](https://django-news.com/issues/326)
-- [Django News - Contributor Covenant, Security Team Expansion, and Django 6.1 Updates - Feb 20th 2026](https://django-news.com/issues/325)
 <!--END_SECTION:news-->
 
 ## Recent Django Jobs
