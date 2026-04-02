@@ -44,11 +44,11 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django Videos
 
 <!--START_SECTION:videos-->
+- [How to Encourage Better Image Uploads with Help Text](https://djangotv.com/videos/wagtail-space/2026/how-to-encourage-better-image-uploads-with-help-text/)
+- [Freelancing & Community - Andrew Miller](https://djangotv.com/videos/djangochat/2026/freelancing-community-andrew-miller/)
+- [Boost Your GitHub DX](https://djangotv.com/videos/djangochat/2026/boost-your-github-dx-adam-johnson/)
 - [Elaine Wong & Jon Banafato](https://djangotv.com/videos/djangochat/2026/pycon-us-2026-elaine-wong-jon-banafato/)
 - [From Kenya to London - Velda Kiara](https://djangotv.com/videos/djangochat/2026/from-kenya-to-london-velda-kiara/)
-- [Day 2 Welcome Remarks](https://djangotv.com/videos/wagtail-space/2025/wagtail-space-2025-day-2-welcome-remarks/)
-- [AI in Wagtail: responsible innovation for content editors](https://djangotv.com/videos/wagtail-space/2025/ai-in-wagtail-responsible-innovation-for-content-editors/)
-- [Day 1 Welcome Remarks](https://djangotv.com/videos/wagtail-space/2025/wagtail-space-2025-day-1-welcome-remarks/)
 <!--END_SECTION:videos-->
 
 ## Follow us
