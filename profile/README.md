@@ -15,11 +15,11 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django News
 
 <!--START_SECTION:news-->
+- [Django News - Supply Chain Wake-Up Call - Apr 3rd 2026](https://django-news.com/issues/331)
 - [Django News - Balancing the AI Flood in Django - Mar 27th 2026](https://django-news.com/issues/330)
 - [Django News - Sunsetting Jazzband - Mar 20th 2026](https://django-news.com/issues/329)
 - [Django News - 21 PRs in One Week to Django Core! - Mar 13th 2026](https://django-news.com/issues/328)
 - [Django News - Django Security Fixes, Python Releases, and New Tools - Mar 6th 2026](https://django-news.com/issues/327)
-- [Django News - Google Summer of Code 2026 with Django - Feb 27th 2026](https://django-news.com/issues/326)
 <!--END_SECTION:news-->
 
 ## Recent Django Jobs
@@ -47,7 +47,7 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 - [How to Encourage Better Image Uploads with Help Text](https://djangotv.com/videos/wagtail-space/2026/how-to-encourage-better-image-uploads-with-help-text/)
 - [Freelancing & Community - Andrew Miller](https://djangotv.com/videos/djangochat/2026/freelancing-community-andrew-miller/)
 - [Boost Your GitHub DX](https://djangotv.com/videos/djangochat/2026/boost-your-github-dx-adam-johnson/)
-- [Elaine Wong & Jon Banafato](https://djangotv.com/videos/djangochat/2026/pycon-us-2026-elaine-wong-jon-banafato/)
+- [PyCon US 2026 with Elaine Wong & Jon Banafato](https://djangotv.com/videos/djangochat/2026/pycon-us-2026-elaine-wong-jon-banafato/)
 - [From Kenya to London - Velda Kiara](https://djangotv.com/videos/djangochat/2026/from-kenya-to-london-velda-kiara/)
 <!--END_SECTION:videos-->
 
