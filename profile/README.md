@@ -34,11 +34,11 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django Chat Podcast Episodes
 
 <!--START_SECTION:episodes-->
+- [Django Tasks - Jake Howard](https://djangochat.com)
 - [Boost Your GitHub DX - Adam Johnson](https://djangochat.com)
 - [PyCon US 2026 - Elaine Wong & Jon Banafato](https://djangochat.com)
 - [From Kenya to London with Django - Velda Kiara](https://djangochat.com)
 - [Freelancing & Community - Andrew Miller](https://djangochat.com)
-- [Improving Django - Adam Hill](https://djangochat.com)
 <!--END_SECTION:episodes-->
 
 ## Recent Django Videos
