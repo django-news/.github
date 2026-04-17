@@ -15,11 +15,11 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django News
 
 <!--START_SECTION:news-->
+- [Django News - 30% Off PyCharm Pro – 100% for Django - Apr 17th 2026](https://django-news.com/issues/333)
 - [Django News - DjangoCon Europe Next Week! - Apr 10th 2026](https://django-news.com/issues/332)
 - [Django News - Supply Chain Wake-Up Call - Apr 3rd 2026](https://django-news.com/issues/331)
 - [Django News - Balancing the AI Flood in Django - Mar 27th 2026](https://django-news.com/issues/330)
 - [Django News - Sunsetting Jazzband - Mar 20th 2026](https://django-news.com/issues/329)
-- [Django News - 21 PRs in One Week to Django Core! - Mar 13th 2026](https://django-news.com/issues/328)
 <!--END_SECTION:news-->
 
 ## Recent Django Jobs
