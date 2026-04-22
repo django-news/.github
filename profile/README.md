@@ -25,10 +25,10 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django Jobs
 
 <!--START_SECTION:jobs-->
-- [Python Developer](https://djangojobboard.com/1331/python-developer-open-data-services/)
 - [Solutions Architect - Python (Client-facing)](https://djangojobboard.com/1303/solutions-architect-python-client-facing-jetbrains/)
 - [Infrastructure Engineer](https://djangojobboard.com/630/infrastructure-engineer-python-software-foundation/)
 - [Backend Software Developer](https://djangojobboard.com/617/backend-software-developer-chartwell-resource-group-ltd/)
+- [Senior Django Developer](https://djangojobboard.com/608/senior-django-developer-skycatchfire/)
 <!--END_SECTION:jobs-->
 
 ## Recent Django Chat Podcast Episodes
