@@ -15,20 +15,20 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django News
 
 <!--START_SECTION:news-->
-- [Django News - 30% Off PyCharm Pro – 100% for Django - Apr 17th 2026](https://django-news.com/issues/333)
-- [Django News - DjangoCon Europe Next Week! - Apr 10th 2026](https://django-news.com/issues/332)
-- [Django News - Supply Chain Wake-Up Call - Apr 3rd 2026](https://django-news.com/issues/331)
-- [Django News - Balancing the AI Flood in Django - Mar 27th 2026](https://django-news.com/issues/330)
-- [Django News - Sunsetting Jazzband - Mar 20th 2026](https://django-news.com/issues/329)
+- [Issue 334: New look, new home, same everything else](https://django-news.com/archive/issue-334-new-look-new-home-same-everything-else/)
+- [Issue 333: Django News - 30% Off PyCharm Pro – 100% for Django](https://django-news.com/archive/issue-333-django-news-30-off-pycharm-pro-100-for/)
+- [DjangoCon Europe Next Week!](https://django-news.com/archive/djangocon-europe-next-week/)
+- [Supply Chain Wake-Up Call](https://django-news.com/archive/supply-chain-wake-up-call/)
+- [Balancing the AI Flood in Django](https://django-news.com/archive/balancing-the-ai-flood-in-django/)
 <!--END_SECTION:news-->
 
 ## Recent Django Jobs
 
 <!--START_SECTION:jobs-->
-- [Solutions Architect - Python (Client-facing)](https://djangojobboard.com/1303/solutions-architect-python-client-facing-jetbrains/)
-- [Infrastructure Engineer](https://djangojobboard.com/630/infrastructure-engineer-python-software-foundation/)
-- [Backend Software Developer](https://djangojobboard.com/617/backend-software-developer-chartwell-resource-group-ltd/)
-- [Senior Django Developer](https://djangojobboard.com/608/senior-django-developer-skycatchfire/)
+- [Junior Software Developer (Apprentice)](https://djangojobboard.com/1344/junior-software-developer-apprentice-ucs-assist/)
+- [Technical Lead](https://djangojobboard.com/1343/technical-lead-ucs-assist/)
+- [Web Developer](https://djangojobboard.com/1342/web-developer-crossway/)
+- [PyPI Sustainability Engineer](https://djangojobboard.com/1340/sustainability-engineer-pypi-python-software-foundation-career-page/)
 <!--END_SECTION:jobs-->
 
 ## Recent Django Chat Podcast Episodes
