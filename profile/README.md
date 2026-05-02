@@ -15,7 +15,7 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django News
 
 <!--START_SECTION:news-->
-- [Redesigning DjangoProject.com](https://django-news.com/archive/redesigning-djangoprojectcom/)
+- [Issue 335: Redesigning DjangoProject.com](https://django-news.com/archive/issue-335-redesigning-djangoprojectcom/)
 - [Issue 334: New look, new home, same everything else](https://django-news.com/archive/issue-334-new-look-new-home-same-everything-else/)
 - [Issue 333: Django News - 30% Off PyCharm Pro – 100% for Django](https://django-news.com/archive/issue-333-django-news-30-off-pycharm-pro-100-for/)
 - [DjangoCon Europe Next Week!](https://django-news.com/archive/djangocon-europe-next-week/)
