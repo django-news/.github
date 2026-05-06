@@ -34,21 +34,21 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django Chat Podcast Episodes
 
 <!--START_SECTION:episodes-->
+- [EuroPython 2026 - Mia Bajić](https://djangochat.com)
 - [DjangoCon Europe Recap + Other News - Jeff Triplett](https://djangochat.com)
 - [Django Tasks - Jake Howard](https://djangochat.com)
 - [Boost Your GitHub DX - Adam Johnson](https://djangochat.com)
 - [PyCon US 2026 - Elaine Wong & Jon Banafato](https://djangochat.com)
-- [From Kenya to London with Django - Velda Kiara](https://djangochat.com)
 <!--END_SECTION:episodes-->
 
 ## Recent Django Videos
 
 <!--START_SECTION:videos-->
+- [EuroPython 2026 with Mia Bajić](https://djangotv.com/videos/djangochat/2026/europython-2026-mia-bajic/)
 - [DjangoCon Europe Recap + Other News - Jeff Triplett](https://djangotv.com/videos/djangochat/2026/djangocon-europe-recap-other-news-jeff-triplett/)
 - [We're all becoming reviewers (maybe we already were) with Jacob Walls](https://djangotv.com/videos/djangonaut-space/2026/were-all-becoming-reviewers-maybe-we-already-were-with-jacob-walls-djangonaut-space/)
 - [Growing with Django's Open Source Community with Clifford Gama](https://djangotv.com/videos/djangonaut-space/2026/growing-with-djangos-open-source-community-with-clifford-gama-djangonaut-space/)
 - [How to Encourage Better Image Uploads with Help Text](https://djangotv.com/videos/wagtail-space/2026/how-to-encourage-better-image-uploads-with-help-text/)
-- [Boost Your GitHub DX](https://djangotv.com/videos/djangochat/2026/boost-your-github-dx-adam-johnson/)
 <!--END_SECTION:videos-->
 
 ## Follow us
