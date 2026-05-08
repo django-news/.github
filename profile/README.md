@@ -15,20 +15,20 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django News
 
 <!--START_SECTION:news-->
+- [Issue 336: Google Summer of Code 2026 Contributors Announced](https://django-news.com/archive/issue-336-google-summer-of-code-2026-contributors/)
 - [Issue 335: Redesigning DjangoProject.com](https://django-news.com/archive/issue-335-redesigning-djangoprojectcom/)
 - [Issue 334: New look, new home, same everything else](https://django-news.com/archive/issue-334-new-look-new-home-same-everything-else/)
 - [Issue 333: Django News - 30% Off PyCharm Pro – 100% for Django](https://django-news.com/archive/issue-333-django-news-30-off-pycharm-pro-100-for/)
 - [DjangoCon Europe Next Week!](https://django-news.com/archive/djangocon-europe-next-week/)
-- [Supply Chain Wake-Up Call](https://django-news.com/archive/supply-chain-wake-up-call/)
 <!--END_SECTION:news-->
 
 ## Recent Django Jobs
 
 <!--START_SECTION:jobs-->
+- [Founding Engineer](https://djangojobboard.com/1358/founding-engineer-mydatavalue/)
 - [Junior Software Developer (Apprentice)](https://djangojobboard.com/1344/junior-software-developer-apprentice-ucs-assist/)
 - [Technical Lead](https://djangojobboard.com/1343/technical-lead-ucs-assist/)
 - [Web Developer](https://djangojobboard.com/1342/web-developer-crossway/)
-- [PyPI Sustainability Engineer](https://djangojobboard.com/1340/sustainability-engineer-pypi-python-software-foundation-career-page/)
 <!--END_SECTION:jobs-->
 
 ## Recent Django Chat Podcast Episodes
