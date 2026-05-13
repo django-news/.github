@@ -34,11 +34,11 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django Chat Podcast Episodes
 
 <!--START_SECTION:episodes-->
+- [Deploy on Day One - Calvin Hendryx-Parker](https://djangochat.com)
 - [EuroPython 2026 - Mia Bajić](https://djangochat.com)
 - [DjangoCon Europe Recap + Other News - Jeff Triplett](https://djangochat.com)
 - [Django Tasks - Jake Howard](https://djangochat.com)
 - [Boost Your GitHub DX - Adam Johnson](https://djangochat.com)
-- [PyCon US 2026 - Elaine Wong & Jon Banafato](https://djangochat.com)
 <!--END_SECTION:episodes-->
 
 ## Recent Django Videos
