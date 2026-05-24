@@ -44,11 +44,11 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django Videos
 
 <!--START_SECTION:videos-->
-- [EuroPython 2026 with Mia Bajić](https://djangotv.com/videos/djangochat/2026/europython-2026-mia-bajic/)
-- [DjangoCon Europe Recap + Other News - Jeff Triplett](https://djangotv.com/videos/djangochat/2026/djangocon-europe-recap-other-news-jeff-triplett/)
-- [We're all becoming reviewers (maybe we already were) with Jacob Walls](https://djangotv.com/videos/djangonaut-space/2026/were-all-becoming-reviewers-maybe-we-already-were-with-jacob-walls-djangonaut-space/)
-- [Growing with Django's Open Source Community with Clifford Gama](https://djangotv.com/videos/djangonaut-space/2026/growing-with-djangos-open-source-community-with-clifford-gama-djangonaut-space/)
-- [How to Encourage Better Image Uploads with Help Text](https://djangotv.com/videos/wagtail-space/2026/how-to-encourage-better-image-uploads-with-help-text/)
+- [Introducing t-strings: f-strings with superpowers - Dave Peck](https://djangotv.com/videos/pycascades/2026/introducing-t-strings-f-strings-with-superpowers-dave-peck-pycascades-2026/)
+- [A bridge over (not) troubled waters: Collecting marine data - Sarah Kaiser, Cassandra Granade](https://djangotv.com/videos/pycascades/2026/a-bridge-over-not-troubled-waters-collecting-marine-data-sarah-kaiser-cassandra-granade/)
+- [Visual Unit Tests and Live Coding - Don Kirkby](https://djangotv.com/videos/pycascades/2026/visual-unit-tests-and-live-coding-don-kirkby-pycascades-2026/)
+- [More. Better.](https://djangotv.com/videos/pycascades/2026/more-better-mario-munoz-pycascades-2026/)
+- [When the Baby App Crashed: Coding for Chaos (and Parenthood) - Laura Meng](https://djangotv.com/videos/pycascades/2026/when-the-baby-app-crashed-coding-for-chaos-and-parenthood-laura-meng-pycascades-2026/)
 <!--END_SECTION:videos-->
 
 ## Follow us
