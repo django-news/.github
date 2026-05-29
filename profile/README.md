@@ -15,11 +15,11 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django News
 
 <!--START_SECTION:news-->
+- [Issue 339: Early Bird DjangoCon US Tickets Ending Soon](https://django-news.com/archive/issue-339-early-bird-djangocon-tickets-ending-soon/)
 - [Issue 338: Django 6.1 alpha 1 released](https://django-news.com/archive/issue-338-django-61-alpha-1-released/)
 - [Issue 337: Django Developers Survey 2026](https://django-news.com/archive/issue-337-django-developers-survey-2026/)
 - [Issue 336: Google Summer of Code 2026 Contributors Announced](https://django-news.com/archive/issue-336-google-summer-of-code-2026-contributors/)
 - [Issue 335: Redesigning DjangoProject.com](https://django-news.com/archive/issue-335-redesigning-djangoprojectcom/)
-- [Issue 334: New look, new home, same everything else](https://django-news.com/archive/issue-334-new-look-new-home-same-everything-else/)
 <!--END_SECTION:news-->
 
 ## Recent Django Jobs
