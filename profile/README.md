@@ -26,9 +26,9 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 
 <!--START_SECTION:jobs-->
 - [Founding Engineer](https://djangojobboard.com/1358/founding-engineer-mydatavalue/)
-- [Junior Software Developer (Apprentice)](https://djangojobboard.com/1344/junior-software-developer-apprentice-ucs-assist/)
-- [Technical Lead](https://djangojobboard.com/1343/technical-lead-ucs-assist/)
 - [Web Developer](https://djangojobboard.com/1342/web-developer-crossway/)
+- [PyPI Sustainability Engineer](https://djangojobboard.com/1340/sustainability-engineer-pypi-python-software-foundation-career-page/)
+- [Solutions Architect - Python (Client-facing)](https://djangojobboard.com/1303/solutions-architect-python-client-facing-jetbrains/)
 <!--END_SECTION:jobs-->
 
 ## Recent Django Chat Podcast Episodes
