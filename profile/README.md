@@ -15,11 +15,11 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django News
 
 <!--START_SECTION:news-->
+- [Issue 345: Django security releases issued: 6.0.7 and 5.2.16](https://django-news.com/archive/issue-345-django-security-releases-issued-607-and/)
 - [Issue 344: Happy Birthday Djangonaut Space!](https://django-news.com/archive/issue-344-happy-birthday-djangonaut-space/)
 - [Issue 343: Django 6.1 beta 1 released](https://django-news.com/archive/issue-343-django-61-beta-1-released/)
 - [Issue 342: DSF Executive Director Search](https://django-news.com/archive/issue-342-dsf-executive-director-search/)
 - [Issue 341: Django 2026 Fundraising Goals](https://django-news.com/archive/issue-341-django-2026-fundraising-goals/)
-- [Issue 340: Django security releases 6.0.6 and 5.2.15](https://django-news.com/archive/issue-340-django-security-releases-606-and-5215/)
 <!--END_SECTION:news-->
 
 ## Recent Django Jobs
@@ -44,11 +44,11 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django Videos
 
 <!--START_SECTION:videos-->
-- [No More Spreadsheets! Building PyLadiesCon Infrastructure with Python and Django - Mariatta](https://djangotv.com/videos/pycascades/2026/no-more-spreadsheets-building-pyladiescon-infrastructure-with-python-and-django-mariatta/)
-- [EuroPython 2026 with Mia Bajić](https://djangotv.com/videos/djangochat/2026/europython-2026-mia-bajic/)
-- [DjangoCon Europe Recap + Other News - Jeff Triplett](https://djangotv.com/videos/djangochat/2026/djangocon-europe-recap-other-news-jeff-triplett/)
-- [We're all becoming reviewers (maybe we already were) with Jacob Walls](https://djangotv.com/videos/djangonaut-space/2026/were-all-becoming-reviewers-maybe-we-already-were-with-jacob-walls-djangonaut-space/)
-- [Growing with Django's Open Source Community with Clifford Gama](https://djangotv.com/videos/djangonaut-space/2026/growing-with-djangos-open-source-community-with-clifford-gama-djangonaut-space/)
+- [How Django Gets Released: Behind the Scenes with Natalia Bidart](https://djangotv.com/videos/djangocon-us/2026/how-django-gets-released-behind-the-scenes-with-natalia-bidart/)
+- [Balancing Authorship and Developer Advocacy in the Django Ecosystem with William Vincent](https://djangotv.com/videos/djangocon-us/2026/balancing-authorship-and-developer-advocacy-in-the-django-ecosystem-with-william-vincent/)
+- [Teaching the Next Generation: Education and Authorship in Django with Eric Matthes](https://djangotv.com/videos/djangocon-us/2026/teaching-the-next-generation-education-and-authorship-in-django-with-eric-matthes/)
+- [Leading the Django Software Foundation and Building Open Source with Thibaud Colas](https://djangotv.com/videos/djangocon-us/2026/leading-the-django-software-foundation-and-building-open-source-with-thibaud-colas/)
+- [Building a Welcoming Django Community with Ken Whitesell](https://djangotv.com/videos/djangocon-us/2026/building-a-welcoming-django-community-with-ken-whitesell/)
 <!--END_SECTION:videos-->
 
 ## Follow us
