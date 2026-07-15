@@ -25,10 +25,10 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django Jobs
 
 <!--START_SECTION:jobs-->
+- [Freelance Full-Stack Web App Developer](https://djangojobboard.com/1565/freelance-full-stack-web-app-developer-mindrift/)
 - [Senior Python/Django Developer](https://djangojobboard.com/1367/senior-pythondjango-developer-gryps/)
 - [Founding ML/Data Scientist (Remote, UK)](https://djangojobboard.com/1362/founding-mldata-scientist-remote-uk-mydatavalue/)
 - [Founding Engineer](https://djangojobboard.com/1358/founding-engineer-mydatavalue/)
-- [Web Developer](https://djangojobboard.com/1342/web-developer-crossway/)
 <!--END_SECTION:jobs-->
 
 ## Recent Django Chat Podcast Episodes
@@ -44,11 +44,11 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django Videos
 
 <!--START_SECTION:videos-->
-- [How Django Gets Released: Behind the Scenes with Natalia Bidart](https://djangotv.com/videos/djangocon-us/2026/how-django-gets-released-behind-the-scenes-with-natalia-bidart/)
-- [Balancing Authorship and Developer Advocacy in the Django Ecosystem with William Vincent](https://djangotv.com/videos/djangocon-us/2026/balancing-authorship-and-developer-advocacy-in-the-django-ecosystem-with-william-vincent/)
-- [Teaching the Next Generation: Education and Authorship in Django with Eric Matthes](https://djangotv.com/videos/djangocon-us/2026/teaching-the-next-generation-education-and-authorship-in-django-with-eric-matthes/)
-- [Leading the Django Software Foundation and Building Open Source with Thibaud Colas](https://djangotv.com/videos/djangocon-us/2026/leading-the-django-software-foundation-and-building-open-source-with-thibaud-colas/)
-- [Building a Welcoming Django Community with Ken Whitesell](https://djangotv.com/videos/djangocon-us/2026/building-a-welcoming-django-community-with-ken-whitesell/)
+- [Creating an Inclusive Django Community with Kenya Phelps](https://djangotv.com/videos/djangocon-us/2026/creating-an-inclusive-django-community-with-kenya-phelps-1/)
+- [Leading the Django Software Foundation and Building Open Source with Thibaud Colas](https://djangotv.com/videos/djangocon-us/2026/leading-the-django-software-foundation-and-building-open-source-with-thibaud-colas-1/)
+- [A First-Time DjangoCon Experience with Jake Atwell](https://djangotv.com/videos/djangocon-us/2026/a-first-time-djangocon-experience-with-jake-atwell-1/)
+- [Learning, Community, and DjangoCon with Yumiko Siewenie](https://djangotv.com/videos/djangocon-us/2026/learning-community-and-djangocon-with-yumiko-siewenie-1/)
+- [Building a Welcoming Django Community with Ken Whitesell](https://djangotv.com/videos/djangocon-us/2026/building-a-welcoming-django-community-with-ken-whitesell-1/)
 <!--END_SECTION:videos-->
 
 ## Follow us
