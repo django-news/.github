@@ -44,11 +44,11 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django Videos
 
 <!--START_SECTION:videos-->
+- [Am I ready to be a Senior Engineer? - Michelle Brenner](https://djangotv.com/videos/pycascades/2026/am-i-ready-to-be-a-senior-engineer-michelle-brenner-pycascades-2026/)
+- [Introducing t-strings: f-strings with superpowers - Dave Peck](https://djangotv.com/videos/pycascades/2026/introducing-t-strings-f-strings-with-superpowers-dave-peck-pycascades-2026/)
+- [Visual Unit Tests and Live Coding - Don Kirkby](https://djangotv.com/videos/pycascades/2026/visual-unit-tests-and-live-coding-don-kirkby-pycascades-2026/)
+- [Python Stings Your Ego: Finding Pride in Community, Not Just Code - Emmanuel Ugwu](https://djangotv.com/videos/pycascades/2026/python-stings-your-ego-finding-pride-in-community-not-just-code-emmanuel-ugwu-pycascades-2026/)
 - [Creating an Inclusive Django Community with Kenya Phelps](https://djangotv.com/videos/djangocon-us/2026/creating-an-inclusive-django-community-with-kenya-phelps-1/)
-- [Leading the Django Software Foundation and Building Open Source with Thibaud Colas](https://djangotv.com/videos/djangocon-us/2026/leading-the-django-software-foundation-and-building-open-source-with-thibaud-colas-1/)
-- [A First-Time DjangoCon Experience with Jake Atwell](https://djangotv.com/videos/djangocon-us/2026/a-first-time-djangocon-experience-with-jake-atwell-1/)
-- [Learning, Community, and DjangoCon with Yumiko Siewenie](https://djangotv.com/videos/djangocon-us/2026/learning-community-and-djangocon-with-yumiko-siewenie-1/)
-- [Building a Welcoming Django Community with Ken Whitesell](https://djangotv.com/videos/djangocon-us/2026/building-a-welcoming-django-community-with-ken-whitesell-1/)
 <!--END_SECTION:videos-->
 
 ## Follow us
