@@ -25,10 +25,10 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django Jobs
 
 <!--START_SECTION:jobs-->
+- [Senior Backend Engineer](https://djangojobboard.com/1964/senior-backend-engineer-myome/)
+- [Python + TypeScript Engineers](https://djangojobboard.com/1908/python-typescript-engineers-fusionbox/)
 - [Freelance Full-Stack Web App Developer](https://djangojobboard.com/1565/freelance-full-stack-web-app-developer-mindrift/)
 - [Senior Python/Django Developer](https://djangojobboard.com/1367/senior-pythondjango-developer-gryps/)
-- [Founding ML/Data Scientist (Remote, UK)](https://djangojobboard.com/1362/founding-mldata-scientist-remote-uk-mydatavalue/)
-- [Founding Engineer](https://djangojobboard.com/1358/founding-engineer-mydatavalue/)
 <!--END_SECTION:jobs-->
 
 ## Recent Django Chat Podcast Episodes
