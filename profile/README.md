@@ -15,11 +15,11 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django News
 
 <!--START_SECTION:news-->
+- [Issue 348: One month until DjangoCon US](https://django-news.com/archive/issue-348-one-month-until-djangocon-us/)
 - [Issue 347: Django 6.1 release candidate 1 released](https://django-news.com/archive/issue-347-django-61-release-candidate-1-released/)
 - [Issue 346: Supporting the Triptych Project](https://django-news.com/archive/issue-346-supporting-the-triptych-project/)
 - [Issue 345: Django security releases issued: 6.0.7 and 5.2.16](https://django-news.com/archive/issue-345-django-security-releases-issued-607-and/)
 - [Issue 344: Happy Birthday Djangonaut Space!](https://django-news.com/archive/issue-344-happy-birthday-djangonaut-space/)
-- [Issue 343: Django 6.1 beta 1 released](https://django-news.com/archive/issue-343-django-61-beta-1-released/)
 <!--END_SECTION:news-->
 
 ## Recent Django Jobs
