@@ -15,20 +15,20 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django News
 
 <!--START_SECTION:news-->
+- [Issue 350: Django moves to an annual release cycle](https://django-news.com/archive/issue-350-django-moves-to-an-annual-release-cycle/)
 - [Issue 349: Django 6.1 and a DSF Executive Director](https://django-news.com/archive/issue-349-django-61-and-a-dsf-executive-director/)
 - [Issue 348: One month until DjangoCon US](https://django-news.com/archive/issue-348-one-month-until-djangocon-us/)
 - [Issue 347: Django 6.1 release candidate 1 released](https://django-news.com/archive/issue-347-django-61-release-candidate-1-released/)
 - [Issue 346: Supporting the Triptych Project](https://django-news.com/archive/issue-346-supporting-the-triptych-project/)
-- [Issue 345: Django security releases issued: 6.0.7 and 5.2.16](https://django-news.com/archive/issue-345-django-security-releases-issued-607-and/)
 <!--END_SECTION:news-->
 
 ## Recent Django Jobs
 
 <!--START_SECTION:jobs-->
+- [Full Stack Software Engineer (Hybrid)](https://djangojobboard.com/2973/full-stack-software-engineer-hybrid-provision/)
 - [Executive Director](https://djangojobboard.com/2836/executive-director-django-software-foundation/)
 - [Security Developer](https://djangojobboard.com/2287/security-developer-python-software-foundation-career-page/)
 - [Senior Full Stack Engineer](https://djangojobboard.com/2125/senior-full-stack-engineer-us-only-full-time-100-remote-hive-collective/)
-- [Senior Backend Engineer](https://djangojobboard.com/1964/senior-backend-engineer-myome/)
 <!--END_SECTION:jobs-->
 
 ## Recent Django Chat Podcast Episodes
