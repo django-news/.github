@@ -15,11 +15,11 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django News
 
 <!--START_SECTION:news-->
+- [Issue 352: PyCharm & Django Fall Fundraiser](https://django-news.com/archive/issue-352-pycharm-django-fall-fundraiser/)
 - [Issue 351: DjangoCon US last call, Djangonaut Space applications open](https://django-news.com/archive/issue-351-djangocon-us-last-call-djangonaut-space/)
 - [Issue 350: Django moves to an annual release cycle](https://django-news.com/archive/issue-350-django-moves-to-an-annual-release-cycle/)
 - [Issue 349: Django 6.1 and a DSF Executive Director](https://django-news.com/archive/issue-349-django-61-and-a-dsf-executive-director/)
 - [Issue 348: One month until DjangoCon US](https://django-news.com/archive/issue-348-one-month-until-djangocon-us/)
-- [Issue 347: Django 6.1 release candidate 1 released](https://django-news.com/archive/issue-347-django-61-release-candidate-1-released/)
 <!--END_SECTION:news-->
 
 ## Recent Django Jobs
