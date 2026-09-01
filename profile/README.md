@@ -25,10 +25,10 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django Jobs
 
 <!--START_SECTION:jobs-->
+- [Django Developer](https://djangojobboard.com/3319/django-developer-the-cruise-brothers/)
 - [Full Stack Software Engineer (Hybrid)](https://djangojobboard.com/2973/full-stack-software-engineer-hybrid-provision/)
 - [Executive Director](https://djangojobboard.com/2836/executive-director-django-software-foundation/)
 - [AI-Assisted Software Engineer, Web Applications](https://djangojobboard.com/3273/ai-assisted-software-engineer-web-applications-lmg-staffing-solutions/)
-- [Security Developer](https://djangojobboard.com/2287/security-developer-python-software-foundation-career-page/)
 <!--END_SECTION:jobs-->
 
 ## Recent Django Chat Podcast Episodes
