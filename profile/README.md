@@ -34,21 +34,21 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django Chat Podcast Episodes
 
 <!--START_SECTION:episodes-->
+- [Django on the Med](https://djangochat.com)
 - [Django Developers Survey 2026](https://djangochat.com)
 - [How France Ditched Microsoft - Samuel Paccoud](https://djangochat.com)
 - [Deploy on Day One - Calvin Hendryx-Parker](https://djangochat.com)
 - [EuroPython 2026 - Mia Bajić](https://djangochat.com)
-- [DjangoCon Europe Recap + Other News - Jeff Triplett](https://djangochat.com)
 <!--END_SECTION:episodes-->
 
 ## Recent Django Videos
 
 <!--START_SECTION:videos-->
+- [Django on the Med](https://djangotv.com/videos/djangochat/2026/django-on-the-med-1/)
 - [Video Tour of Wagtail 8.0](https://djangotv.com/videos/wagtail-cms/2023/video-tour-of-wagtail-80/)
 - [Django Developers Survey 2026](https://djangotv.com/videos/djangochat/2026/django-developers-survey-2026/)
 - [Creating an Inclusive Django Community with Kenya Phelps](https://djangotv.com/videos/djangocon-us/2026/creating-an-inclusive-django-community-with-kenya-phelps-1/)
 - [Leading the Django Software Foundation and Building Open Source with Thibaud Colas](https://djangotv.com/videos/djangocon-us/2026/leading-the-django-software-foundation-and-building-open-source-with-thibaud-colas-1/)
-- [A First-Time DjangoCon Experience with Jake Atwell](https://djangotv.com/videos/djangocon-us/2026/a-first-time-djangocon-experience-with-jake-atwell-1/)
 <!--END_SECTION:videos-->
 
 ## Follow us
