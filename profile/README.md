@@ -25,10 +25,10 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django Jobs
 
 <!--START_SECTION:jobs-->
-- [Django Developer](https://djangojobboard.com/3576/django-developer-the-developer-society/)
 - [Senior Backend Developer (Python)](https://djangojobboard.com/3668/senior-backend-developer-python-proxify-ab/)
 - [Senior Fullstack Developer (React.js / Node.js)](https://djangojobboard.com/3669/senior-fullstack-developer-reactjs-nodejs-proxify-ab/)
 - [Machine Learning Engineer (Hybrid)](https://djangojobboard.com/3452/machine-learning-engineer-hybrid-provision/)
+- [Django Developer](https://djangojobboard.com/3319/django-developer-the-cruise-brothers/)
 <!--END_SECTION:jobs-->
 
 ## Recent Django Chat Podcast Episodes
@@ -46,7 +46,7 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 <!--START_SECTION:videos-->
 - [MCP server in Wagtail - experiments demo](https://djangotv.com/videos/unknown/9999/mcp-server-in-wagtail-experiments-demo/)
 - [Django on the Med](https://djangotv.com/videos/djangochat/2026/django-on-the-med-1/)
-- [Video Tour of Wagtail 8.0](https://djangotv.com/videos/wagtail-cms/2023/video-tour-of-wagtail-80/)
+- [Video Tour of Wagtail 8.0](https://djangotv.com/videos/unknown/9999/video-tour-of-wagtail-80/)
 - [Django Developers Survey 2026](https://djangotv.com/videos/djangochat/2026/django-developers-survey-2026/)
 - [Creating an Inclusive Django Community with Kenya Phelps](https://djangotv.com/videos/djangocon-us/2026/creating-an-inclusive-django-community-with-kenya-phelps-1/)
 <!--END_SECTION:videos-->
