@@ -15,11 +15,11 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django News
 
 <!--START_SECTION:news-->
+- [Issue 358: Django 6.1.2, 6.0.9, and 5.2.18 Security Releases and Djangonaut Space Session 7](https://django-news.com/archive/issue-358-django-612-609-and-5218-security/)
 - [Issue 357: Malcolm Tredinnick Prize Nominations and Django 6.2 Features](https://django-news.com/archive/issue-357-malcolm-tredinnick-prize-nominations/)
 - [Issue 356: New technical governance approved for Django](https://django-news.com/archive/issue-356-new-technical-governance-approved/)
 - [Issue 355: DjangoCon Europe 2027 in Innsbruck and Django Probe](https://django-news.com/archive/issue-355-djangocon-europe-2027-in-innsbruck/)
 - [Issue 354: DjangoCon US Recaps and the Myth of the Well-Structured Project](https://django-news.com/archive/issue-354-djangocon-us-recaps-and-the-myth-of-the/)
-- [Issue 353: DjangoCon US Recaps Galore!](https://django-news.com/archive/issue-353-djangocon-us-recaps-galore/)
 <!--END_SECTION:news-->
 
 ## Recent Django Jobs
@@ -46,7 +46,7 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 <!--START_SECTION:videos-->
 - [MCP server in Wagtail - experiments demo](https://djangotv.com/videos/unknown/9999/mcp-server-in-wagtail-experiments-demo/)
 - [Django on the Med](https://djangotv.com/videos/djangochat/2026/django-on-the-med-1/)
-- [Video Tour of Wagtail 8.0](https://djangotv.com/videos/unknown/9999/video-tour-of-wagtail-80/)
+- [Video Tour of Wagtail 8.0](https://djangotv.com/videos/wagtail-cms/2023/video-tour-of-wagtail-80/)
 - [Django Developers Survey 2026](https://djangotv.com/videos/djangochat/2026/django-developers-survey-2026/)
 - [Creating an Inclusive Django Community with Kenya Phelps](https://djangotv.com/videos/djangocon-us/2026/creating-an-inclusive-django-community-with-kenya-phelps-1/)
 <!--END_SECTION:videos-->
