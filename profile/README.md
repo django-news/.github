@@ -34,21 +34,21 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django Chat Podcast Episodes
 
 <!--START_SECTION:episodes-->
+- [Hiring in 2026 - Jon Gould](https://djangochat.com)
 - [Django on the Med](https://djangochat.com)
 - [Django Developers Survey 2026](https://djangochat.com)
 - [How France Ditched Microsoft - Samuel Paccoud](https://djangochat.com)
 - [Deploy on Day One - Calvin Hendryx-Parker](https://djangochat.com)
-- [EuroPython 2026 - Mia Bajić](https://djangochat.com)
 <!--END_SECTION:episodes-->
 
 ## Recent Django Videos
 
 <!--START_SECTION:videos-->
-- [MCP server in Wagtail - experiments demo](https://djangotv.com/videos/unknown/9999/mcp-server-in-wagtail-experiments-demo/)
-- [Django on the Med](https://djangotv.com/videos/djangochat/2026/django-on-the-med-1/)
-- [Video Tour of Wagtail 8.0](https://djangotv.com/videos/wagtail-cms/2023/video-tour-of-wagtail-80/)
-- [Django Developers Survey 2026](https://djangotv.com/videos/djangochat/2026/django-developers-survey-2026/)
-- [Creating an Inclusive Django Community with Kenya Phelps](https://djangotv.com/videos/djangocon-us/2026/creating-an-inclusive-django-community-with-kenya-phelps-1/)
+- [Django Hiring in 2026 - Jon Gould](https://djangotv.com/videos/djangochat/2026/django-hiring-in-2026-jon-gould/)
+- [Wagtail API in action: Content ops with DeepSeek Harness + Mistral Large 4](https://djangotv.com/videos/unknown/9999/wagtail-api-in-action-content-ops-with-deepseek-harness-mistral-large-4/)
+- [Paris Kasidiaris - DjangoMaxxing: Serving Thousands of OTLP Requests per Sec...](https://djangotv.com/videos/django-day-copenhagen/2026/paris-kasidiaris-djangomaxxing-serving-thousands-of-otlp-requests-per-sec-django-day-2026/)
+- [Marijke Luttekes - How to create admin model views and stand-alone pages (...)](https://djangotv.com/videos/django-day-copenhagen/2026/marijke-luttekes-how-to-create-admin-model-views-and-stand-alone-pages-django-day-2026/)
+- [Efe Öge - Keeping secrets secret in Django](https://djangotv.com/videos/django-day-copenhagen/2026/efe-oge-keeping-secrets-secret-in-django-django-day-2026/)
 <!--END_SECTION:videos-->
 
 ## Follow us
