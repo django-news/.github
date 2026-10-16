@@ -15,20 +15,18 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django News
 
 <!--START_SECTION:news-->
+- [Issue 359: Python 3.15 Is Here and Python 3.16 Alpha 1](https://django-news.com/archive/issue-359-python-315-is-here-and-python-316-alpha/)
 - [Issue 358: Django 6.1.2, 6.0.9, and 5.2.18 Security Releases and Djangonaut Space Session 7](https://django-news.com/archive/issue-358-django-612-609-and-5218-security/)
 - [Issue 357: Malcolm Tredinnick Prize Nominations and Django 6.2 Features](https://django-news.com/archive/issue-357-malcolm-tredinnick-prize-nominations/)
 - [Issue 356: New technical governance approved for Django](https://django-news.com/archive/issue-356-new-technical-governance-approved/)
 - [Issue 355: DjangoCon Europe 2027 in Innsbruck and Django Probe](https://django-news.com/archive/issue-355-djangocon-europe-2027-in-innsbruck/)
-- [Issue 354: DjangoCon US Recaps and the Myth of the Well-Structured Project](https://django-news.com/archive/issue-354-djangocon-us-recaps-and-the-myth-of-the/)
 <!--END_SECTION:news-->
 
 ## Recent Django Jobs
 
 <!--START_SECTION:jobs-->
-- [Senior Backend Developer (Python)](https://djangojobboard.com/3668/senior-backend-developer-python-proxify-ab/)
-- [Senior Fullstack Developer (React.js / Node.js)](https://djangojobboard.com/3669/senior-fullstack-developer-reactjs-nodejs-proxify-ab/)
-- [Machine Learning Engineer (Hybrid)](https://djangojobboard.com/3452/machine-learning-engineer-hybrid-provision/)
-- [Django Developer](https://djangojobboard.com/3319/django-developer-the-cruise-brothers/)
+- [Machine Learning Engineer](https://djangojobboard.com/3743/machine-learning-engineer-hft-architecture/)
+- [Junior Machine Learning Engineer](https://djangojobboard.com/3742/junior-machine-learning-engineer-hft-architecture/)
 <!--END_SECTION:jobs-->
 
 ## Recent Django Chat Podcast Episodes
