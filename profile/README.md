@@ -44,9 +44,9 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 <!--START_SECTION:videos-->
 - [Django Hiring in 2026 - Jon Gould](https://djangotv.com/videos/djangochat/2026/django-hiring-in-2026-jon-gould/)
 - [Wagtail API in action: Content ops with DeepSeek Harness + Mistral Large 4](https://djangotv.com/videos/unknown/9999/wagtail-api-in-action-content-ops-with-deepseek-harness-mistral-large-4/)
-- [Paris Kasidiaris - DjangoMaxxing: Serving Thousands of OTLP Requests per Sec...](https://djangotv.com/videos/django-day-copenhagen/2026/paris-kasidiaris-djangomaxxing-serving-thousands-of-otlp-requests-per-sec-django-day-2026/)
-- [Marijke Luttekes - How to create admin model views and stand-alone pages (...)](https://djangotv.com/videos/django-day-copenhagen/2026/marijke-luttekes-how-to-create-admin-model-views-and-stand-alone-pages-django-day-2026/)
-- [Efe Öge - Keeping secrets secret in Django](https://djangotv.com/videos/django-day-copenhagen/2026/efe-oge-keeping-secrets-secret-in-django-django-day-2026/)
+- [Mohammad Abu Khashabeh - Pre-commit hooks that catch Django problems early](https://djangotv.com/videos/django-day-copenhagen/2026/mohammad-abu-khashabeh-pre-commit-hooks-that-catch-django-problems-early-django-day-2026/)
+- [Dennis Stritzke - Building Maintainable CRUD in Django](https://djangotv.com/videos/django-day-copenhagen/2026/dennis-stritzke-building-maintainable-crud-in-django-django-day-2026/)
+- [Denny Biasiolli - The Time Paradox: Building Timezone-Safe Python/Django](https://djangotv.com/videos/django-day-copenhagen/2026/denny-biasiolli-the-time-paradox-building-timezone-safe-pythondjango-django-day-2026/)
 <!--END_SECTION:videos-->
 
 ## Follow us
