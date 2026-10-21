@@ -25,28 +25,30 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django Jobs
 
 <!--START_SECTION:jobs-->
+- [CPython Developer in Residence](https://djangojobboard.com/3788/cpython-developer-in-residence-python-software-foundation/)
+- [Senior Software Engineer — Python, React & AI](https://djangojobboard.com/3786/senior-software-engineer-python-react-ai-camden-kelly-staffing/)
+- [Senior Python Engineer (Barcelona-based / Relocation support to Barcelona)](https://djangojobboard.com/3787/senior-python-engineer-barcelona-based-relocation-support-to-barcelona-manychat/)
 - [Machine Learning Engineer](https://djangojobboard.com/3743/machine-learning-engineer-hft-architecture/)
-- [Junior Machine Learning Engineer](https://djangojobboard.com/3742/junior-machine-learning-engineer-hft-architecture/)
 <!--END_SECTION:jobs-->
 
 ## Recent Django Chat Podcast Episodes
 
 <!--START_SECTION:episodes-->
+- [Django in Space - Loes Crama](https://djangochat.com)
 - [Hiring in 2026 - Jon Gould](https://djangochat.com)
 - [Django on the Med](https://djangochat.com)
 - [Django Developers Survey 2026](https://djangochat.com)
 - [How France Ditched Microsoft - Samuel Paccoud](https://djangochat.com)
-- [Deploy on Day One - Calvin Hendryx-Parker](https://djangochat.com)
 <!--END_SECTION:episodes-->
 
 ## Recent Django Videos
 
 <!--START_SECTION:videos-->
-- [Django Hiring in 2026 - Jon Gould](https://djangotv.com/videos/djangochat/2026/django-hiring-in-2026-jon-gould/)
+- [Django in Space with Loes Crama](https://djangotv.com/videos/djangochat/2026/django-in-space-loes-crama/)
+- [Django Hiring in 2026 with Jon Gould](https://djangotv.com/videos/djangochat/2026/django-hiring-in-2026-jon-gould/)
 - [Wagtail API in action: Content ops with DeepSeek Harness + Mistral Large 4](https://djangotv.com/videos/unknown/9999/wagtail-api-in-action-content-ops-with-deepseek-harness-mistral-large-4/)
 - [Mohammad Abu Khashabeh - Pre-commit hooks that catch Django problems early](https://djangotv.com/videos/django-day-copenhagen/2026/mohammad-abu-khashabeh-pre-commit-hooks-that-catch-django-problems-early-django-day-2026/)
 - [Dennis Stritzke - Building Maintainable CRUD in Django](https://djangotv.com/videos/django-day-copenhagen/2026/dennis-stritzke-building-maintainable-crud-in-django-django-day-2026/)
-- [Denny Biasiolli - The Time Paradox: Building Timezone-Safe Python/Django](https://djangotv.com/videos/django-day-copenhagen/2026/denny-biasiolli-the-time-paradox-building-timezone-safe-pythondjango-django-day-2026/)
 <!--END_SECTION:videos-->
 
 ## Follow us
