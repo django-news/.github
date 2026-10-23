@@ -15,11 +15,11 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django News
 
 <!--START_SECTION:news-->
+- [Issue 360: Python and Wagtail Security Releases](https://django-news.com/archive/issue-360-python-and-wagtail-security-releases/)
 - [Issue 359: Python 3.15 Is Here and Python 3.16 Alpha 1](https://django-news.com/archive/issue-359-python-315-is-here-and-python-316-alpha/)
 - [Issue 358: Django 6.1.2, 6.0.9, and 5.2.18 Security Releases and Djangonaut Space Session 7](https://django-news.com/archive/issue-358-django-612-609-and-5218-security/)
 - [Issue 357: Malcolm Tredinnick Prize Nominations and Django 6.2 Features](https://django-news.com/archive/issue-357-malcolm-tredinnick-prize-nominations/)
 - [Issue 356: New technical governance approved for Django](https://django-news.com/archive/issue-356-new-technical-governance-approved/)
-- [Issue 355: DjangoCon Europe 2027 in Innsbruck and Django Probe](https://django-news.com/archive/issue-355-djangocon-europe-2027-in-innsbruck/)
 <!--END_SECTION:news-->
 
 ## Recent Django Jobs
