@@ -25,10 +25,10 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django Jobs
 
 <!--START_SECTION:jobs-->
+- [Senior Python Engineer](https://djangojobboard.com/3804/senior-python-engineer-webbyfox-consultancy/)
+- [AI Engineer](https://djangojobboard.com/3803/ai-engineer-webbyfox-consultancy/)
 - [CPython Developer in Residence](https://djangojobboard.com/3788/cpython-developer-in-residence-python-software-foundation/)
 - [Senior Software Engineer — Python, React & AI](https://djangojobboard.com/3786/senior-software-engineer-python-react-ai-camden-kelly-staffing/)
-- [Senior Python Engineer (Barcelona-based / Relocation support to Barcelona)](https://djangojobboard.com/3787/senior-python-engineer-barcelona-based-relocation-support-to-barcelona-manychat/)
-- [Machine Learning Engineer](https://djangojobboard.com/3743/machine-learning-engineer-hft-architecture/)
 <!--END_SECTION:jobs-->
 
 ## Recent Django Chat Podcast Episodes
