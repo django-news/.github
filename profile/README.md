@@ -44,11 +44,11 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django Videos
 
 <!--START_SECTION:videos-->
-- [Django in Space with Loes Crama](https://djangotv.com/videos/djangochat/2026/django-in-space-loes-crama/)
-- [Django Hiring in 2026 with Jon Gould](https://djangotv.com/videos/djangochat/2026/django-hiring-in-2026-jon-gould/)
-- [Wagtail API in action: Content ops with DeepSeek Harness + Mistral Large 4](https://djangotv.com/videos/unknown/9999/wagtail-api-in-action-content-ops-with-deepseek-harness-mistral-large-4/)
-- [Mohammad Abu Khashabeh - Pre-commit hooks that catch Django problems early](https://djangotv.com/videos/django-day-copenhagen/2026/mohammad-abu-khashabeh-pre-commit-hooks-that-catch-django-problems-early-django-day-2026/)
-- [Dennis Stritzke - Building Maintainable CRUD in Django](https://djangotv.com/videos/django-day-copenhagen/2026/dennis-stritzke-building-maintainable-crud-in-django-django-day-2026/)
+- [Orientation with Kojo Idrissa](https://djangotv.com/videos/djangocon-us/2026/orientation-with-kojo-idrissa-2/)
+- [Opening Remarks (Monday) with Keanya Phelps](https://djangotv.com/videos/djangocon-us/2026/opening-remarks-monday-with-keanya-phelps-1/)
+- [Scientists Meet Django: Building Bridges Between Research and Software with Barkha Jain](https://djangotv.com/videos/djangocon-us/2026/scientists-meet-django-building-bridges-between-research-and-software-with-barkha-jain/)
+- [Batteries vs. Speed: The Django/FastAPI Debate with Calvin Hendryx-Parker and Frank Wiles](https://djangotv.com/videos/djangocon-us/2026/batteries-vs-speed-the-djangofastapi-debate-with-calvin-hendryx-parker-and-frank-wiles/)
+- [GeoDjango at City Scale: Spatial Data for Urban Systems with Drishti Jain](https://djangotv.com/videos/djangocon-us/2026/geodjango-at-city-scale-spatial-data-for-urban-systems-with-drishti-jain/)
 <!--END_SECTION:videos-->
 
 ## Follow us
