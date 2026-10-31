@@ -26,9 +26,9 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 
 <!--START_SECTION:jobs-->
 - [Senior Python Engineer](https://djangojobboard.com/3804/senior-python-engineer-webbyfox-consultancy/)
-- [AI Engineer](https://djangojobboard.com/3803/ai-engineer-webbyfox-consultancy/)
 - [CPython Developer in Residence](https://djangojobboard.com/3788/cpython-developer-in-residence-python-software-foundation/)
 - [Senior Software Engineer — Python, React & AI](https://djangojobboard.com/3786/senior-software-engineer-python-react-ai-camden-kelly-staffing/)
+- [Senior Python Engineer (Barcelona-based / Relocation support to Barcelona)](https://djangojobboard.com/3787/senior-python-engineer-barcelona-based-relocation-support-to-barcelona-manychat/)
 <!--END_SECTION:jobs-->
 
 ## Recent Django Chat Podcast Episodes
@@ -44,11 +44,11 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django Videos
 
 <!--START_SECTION:videos-->
+- [From librarian to Djangonaut - My Open Source journey with Annabelle Wiegart](https://djangotv.com/videos/djangonaut-space/2026/from-librarian-to-djangonaut-my-open-source-journey-with-annabelle-wiegart/)
 - [Orientation with Kojo Idrissa](https://djangotv.com/videos/djangocon-us/2026/orientation-with-kojo-idrissa-2/)
 - [Opening Remarks (Monday) with Keanya Phelps](https://djangotv.com/videos/djangocon-us/2026/opening-remarks-monday-with-keanya-phelps-1/)
 - [Scientists Meet Django: Building Bridges Between Research and Software with Barkha Jain](https://djangotv.com/videos/djangocon-us/2026/scientists-meet-django-building-bridges-between-research-and-software-with-barkha-jain/)
 - [Batteries vs. Speed: The Django/FastAPI Debate with Calvin Hendryx-Parker and Frank Wiles](https://djangotv.com/videos/djangocon-us/2026/batteries-vs-speed-the-djangofastapi-debate-with-calvin-hendryx-parker-and-frank-wiles/)
-- [GeoDjango at City Scale: Spatial Data for Urban Systems with Drishti Jain](https://djangotv.com/videos/djangocon-us/2026/geodjango-at-city-scale-spatial-data-for-urban-systems-with-drishti-jain/)
 <!--END_SECTION:videos-->
 
 ## Follow us
