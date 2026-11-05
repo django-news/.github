@@ -34,11 +34,11 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django Chat Podcast Episodes
 
 <!--START_SECTION:episodes-->
+- [Databases, Django APIs, and AI - Haki Benita](https://djangochat.com)
 - [Django in Space - Loes Crama](https://djangochat.com)
 - [Hiring in 2026 - Jon Gould](https://djangochat.com)
 - [Django on the Med](https://djangochat.com)
 - [Django Developers Survey 2026](https://djangochat.com)
-- [How France Ditched Microsoft - Samuel Paccoud](https://djangochat.com)
 <!--END_SECTION:episodes-->
 
 ## Recent Django Videos
