@@ -44,11 +44,11 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django Videos
 
 <!--START_SECTION:videos-->
+- [Databases, Django APIs, and AI - Haki Benita](https://djangotv.com/videos/djangochat/2026/databases-django-apis-and-ai-haki-benita/)
 - [From librarian to Djangonaut - My Open Source journey with Annabelle Wiegart](https://djangotv.com/videos/djangonaut-space/2026/from-librarian-to-djangonaut-my-open-source-journey-with-annabelle-wiegart/)
 - [Orientation with Kojo Idrissa](https://djangotv.com/videos/djangocon-us/2026/orientation-with-kojo-idrissa-2/)
 - [Opening Remarks (Monday) with Keanya Phelps](https://djangotv.com/videos/djangocon-us/2026/opening-remarks-monday-with-keanya-phelps-1/)
 - [Scientists Meet Django: Building Bridges Between Research and Software with Barkha Jain](https://djangotv.com/videos/djangocon-us/2026/scientists-meet-django-building-bridges-between-research-and-software-with-barkha-jain/)
-- [Batteries vs. Speed: The Django/FastAPI Debate with Calvin Hendryx-Parker and Frank Wiles](https://djangotv.com/videos/djangocon-us/2026/batteries-vs-speed-the-djangofastapi-debate-with-calvin-hendryx-parker-and-frank-wiles/)
 <!--END_SECTION:videos-->
 
 ## Follow us
