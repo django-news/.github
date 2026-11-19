@@ -28,17 +28,16 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 - [CPython Developer in Residence](https://djangojobboard.com/3788/cpython-developer-in-residence-python-software-foundation/)
 - [Senior Python Engineer (Barcelona-based / Relocation support to Barcelona)](https://djangojobboard.com/3787/senior-python-engineer-barcelona-based-relocation-support-to-barcelona-manychat/)
 - [Senior Backend Developer (Python)](https://djangojobboard.com/4144/senior-backend-developer-python-proxify-ab/)
-- [Founding Forward Deployed Engineer](https://djangojobboard.com/4072/founding-forward-deployed-engineer-alloy/)
 <!--END_SECTION:jobs-->
 
 ## Recent Django Chat Podcast Episodes
 
 <!--START_SECTION:episodes-->
+- [Code Is Not the Bottleneck - Johannes Maron](https://djangochat.com)
 - [Databases, Django APIs, and AI - Haki Benita](https://djangochat.com)
 - [Django in Space - Loes Crama](https://djangochat.com)
 - [Hiring in 2026 - Jon Gould](https://djangochat.com)
 - [Django on the Med](https://djangochat.com)
-- [Django Developers Survey 2026](https://djangochat.com)
 <!--END_SECTION:episodes-->
 
 ## Recent Django Videos
