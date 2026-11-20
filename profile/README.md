@@ -15,11 +15,11 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django News
 
 <!--START_SECTION:news-->
+- [Issue 364: 2027 DSF Board Nominations](https://django-news.com/archive/issue-364-2027-dsf-board-nominations/)
 - [Issue 363: Wagtail's new API](https://django-news.com/archive/issue-363-wagtails-new-api/)
 - [Issue 362: Django 6.1.3, 6.0.10, and 5.2.19 Security Releases](https://django-news.com/archive/issue-362-django-613-6010-and-5219-security/)
 - [Issue 361: DjangoCon Europe and DjangoCon US 2026 Videos Are Out](https://django-news.com/archive/issue-361-djangocon-europe-and-djangocon-us-2026/)
 - [Issue 360: Python and Wagtail Security Releases](https://django-news.com/archive/issue-360-python-and-wagtail-security-releases/)
-- [Issue 359: Python 3.15 Is Here and Python 3.16 Alpha 1](https://django-news.com/archive/issue-359-python-315-is-here-and-python-316-alpha/)
 <!--END_SECTION:news-->
 
 ## Recent Django Jobs
@@ -43,11 +43,11 @@ Django News was started in 2019 by [@jefftriplett](https://github.com/jefftriple
 ## Recent Django Videos
 
 <!--START_SECTION:videos-->
+- [Code Is Not the Bottleneck - Johannes Maron](https://djangotv.com/videos/djangochat/2026/code-is-not-the-bottleneck-johannes-maron/)
 - [Databases, Django APIs, and AI - Haki Benita](https://djangotv.com/videos/djangochat/2026/databases-django-apis-and-ai-haki-benita/)
 - [From librarian to Djangonaut - My Open Source journey with Annabelle Wiegart](https://djangotv.com/videos/djangonaut-space/2026/from-librarian-to-djangonaut-my-open-source-journey-with-annabelle-wiegart/)
 - [Orientation with Kojo Idrissa](https://djangotv.com/videos/djangocon-us/2026/orientation-with-kojo-idrissa-2/)
 - [Opening Remarks (Monday) with Keanya Phelps](https://djangotv.com/videos/djangocon-us/2026/opening-remarks-monday-with-keanya-phelps-1/)
-- [Scientists Meet Django: Building Bridges Between Research and Software with Barkha Jain](https://djangotv.com/videos/djangocon-us/2026/scientists-meet-django-building-bridges-between-research-and-software-with-barkha-jain/)
 <!--END_SECTION:videos-->
 
 ## Follow us
